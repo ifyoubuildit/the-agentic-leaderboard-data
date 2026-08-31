@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-31T16:09:33Z",
+  "last_updated": "2026-08-31T17:12:58Z",
   "total_agents_evaluated": 200,
   "leaderboard": [
     {
@@ -19,7 +19,7 @@
         "reliability_success_rate_pct": 100.0
       },
       "community_mindshare": {
-        "github_stars": 67224,
+        "github_stars": 67226,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 89.39
@@ -65,7 +65,7 @@
         "reliability_success_rate_pct": 100.0
       },
       "community_mindshare": {
-        "github_stars": 40483,
+        "github_stars": 40505,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 86.39
@@ -88,7 +88,7 @@
         "reliability_success_rate_pct": 100.0
       },
       "community_mindshare": {
-        "github_stars": 245051,
+        "github_stars": 245070,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 96.94
@@ -111,7 +111,7 @@
         "reliability_success_rate_pct": 100.0
       },
       "community_mindshare": {
-        "github_stars": 187032,
+        "github_stars": 187033,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 96.35
@@ -134,7 +134,7 @@
         "reliability_success_rate_pct": 97.4
       },
       "community_mindshare": {
-        "github_stars": 388237,
+        "github_stars": 388245,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 100.0
@@ -157,7 +157,7 @@
         "reliability_success_rate_pct": 100.0
       },
       "community_mindshare": {
-        "github_stars": 202954,
+        "github_stars": 202957,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 97.13
@@ -180,7 +180,7 @@
         "reliability_success_rate_pct": 97.4
       },
       "community_mindshare": {
-        "github_stars": 51302,
+        "github_stars": 51304,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 87.72
@@ -226,7 +226,7 @@
         "reliability_success_rate_pct": 100.0
       },
       "community_mindshare": {
-        "github_stars": 145356,
+        "github_stars": 145358,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 94.31
@@ -272,7 +272,7 @@
         "reliability_success_rate_pct": 97.4
       },
       "community_mindshare": {
-        "github_stars": 26509,
+        "github_stars": 26511,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 85.39
@@ -295,7 +295,7 @@
         "reliability_success_rate_pct": 95.0
       },
       "community_mindshare": {
-        "github_stars": 57879,
+        "github_stars": 57882,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 89.09
@@ -318,7 +318,7 @@
         "reliability_success_rate_pct": 97.0
       },
       "community_mindshare": {
-        "github_stars": 35287,
+        "github_stars": 35288,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 85.08
@@ -364,7 +364,7 @@
         "reliability_success_rate_pct": 97.4
       },
       "community_mindshare": {
-        "github_stars": 29076,
+        "github_stars": 29079,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 84.19
@@ -387,7 +387,7 @@
         "reliability_success_rate_pct": 100.0
       },
       "community_mindshare": {
-        "github_stars": 69575,
+        "github_stars": 69586,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 90.57
@@ -410,7 +410,7 @@
         "reliability_success_rate_pct": 94.2
       },
       "community_mindshare": {
-        "github_stars": 77016,
+        "github_stars": 77038,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 89.05
@@ -433,10 +433,10 @@
         "reliability_success_rate_pct": 92.4
       },
       "community_mindshare": {
-        "github_stars": 206170,
+        "github_stars": 206228,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 95.44
+        "mindshare_score": 95.55
       }
     },
     {
@@ -456,7 +456,7 @@
         "reliability_success_rate_pct": 100.0
       },
       "community_mindshare": {
-        "github_stars": 51940,
+        "github_stars": 51943,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 88.64
@@ -479,7 +479,7 @@
         "reliability_success_rate_pct": 94.2
       },
       "community_mindshare": {
-        "github_stars": 60775,
+        "github_stars": 60777,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 88.47
@@ -502,7 +502,7 @@
         "reliability_success_rate_pct": 94.2
       },
       "community_mindshare": {
-        "github_stars": 54925,
+        "github_stars": 54943,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 87.67
@@ -510,29 +510,6 @@
     },
     {
       "rank": 23,
-      "agent_name": "learn-claude-code",
-      "developer": "shareAI-lab",
-      "repository_url": "https://github.com/shareAI-lab/learn-claude-code",
-      "description": "Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1",
-      "category": "Coding & Software Engineering",
-      "is_new_this_week": false,
-      "overall_score": 85.4,
-      "performance_metrics": {
-        "tool_selection_quality_pct": 71.2,
-        "autonomous_iteration_avg_steps": 22.5,
-        "cost_efficiency_usd_per_task": 0.02,
-        "latency_per_step_ms": 500.0,
-        "reliability_success_rate_pct": 92.4
-      },
-      "community_mindshare": {
-        "github_stars": 75747,
-        "hf_likes": 0,
-        "paper_citations": 0,
-        "mindshare_score": 90.3
-      }
-    },
-    {
-      "rank": 24,
       "agent_name": "OmniRoute",
       "developer": "diegosouzapw",
       "repository_url": "https://github.com/diegosouzapw/OmniRoute",
@@ -548,14 +525,14 @@
         "reliability_success_rate_pct": 100.0
       },
       "community_mindshare": {
-        "github_stars": 59108,
+        "github_stars": 59136,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 89.14
+        "mindshare_score": 89.15
       }
     },
     {
-      "rank": 25,
+      "rank": 24,
       "agent_name": "agents",
       "developer": "wshobson",
       "repository_url": "https://github.com/wshobson/agents",
@@ -571,14 +548,14 @@
         "reliability_success_rate_pct": 97.0
       },
       "community_mindshare": {
-        "github_stars": 39293,
+        "github_stars": 39294,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 86.48
       }
     },
     {
-      "rank": 26,
+      "rank": 25,
       "agent_name": "WrenAI",
       "developer": "Canner",
       "repository_url": "https://github.com/Canner/WrenAI",
@@ -594,14 +571,14 @@
         "reliability_success_rate_pct": 97.4
       },
       "community_mindshare": {
-        "github_stars": 17430,
+        "github_stars": 17431,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 82.22
       }
     },
     {
-      "rank": 27,
+      "rank": 26,
       "agent_name": "hermes-agent",
       "developer": "NousResearch",
       "repository_url": "https://github.com/NousResearch/hermes-agent",
@@ -617,10 +594,33 @@
         "reliability_success_rate_pct": 95.0
       },
       "community_mindshare": {
-        "github_stars": 238856,
+        "github_stars": 238877,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 97.34
+      }
+    },
+    {
+      "rank": 27,
+      "agent_name": "learn-claude-code",
+      "developer": "shareAI-lab",
+      "repository_url": "https://github.com/shareAI-lab/learn-claude-code",
+      "description": "Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1",
+      "category": "Agent Framework",
+      "is_new_this_week": false,
+      "overall_score": 85.3,
+      "performance_metrics": {
+        "tool_selection_quality_pct": 71.2,
+        "autonomous_iteration_avg_steps": 22.5,
+        "cost_efficiency_usd_per_task": 0.02,
+        "latency_per_step_ms": 500.0,
+        "reliability_success_rate_pct": 92.4
+      },
+      "community_mindshare": {
+        "github_stars": 75748,
+        "hf_likes": 0,
+        "paper_citations": 0,
+        "mindshare_score": 90.19
       }
     },
     {
@@ -629,7 +629,7 @@
       "developer": "bytedance",
       "repository_url": "https://github.com/bytedance/deer-flow",
       "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
-      "category": "Agent Framework",
+      "category": "Autonomous Agent",
       "is_new_this_week": false,
       "overall_score": 85.1,
       "performance_metrics": {
@@ -640,7 +640,7 @@
         "reliability_success_rate_pct": 97.4
       },
       "community_mindshare": {
-        "github_stars": 81175,
+        "github_stars": 81178,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 90.84
@@ -663,7 +663,7 @@
         "reliability_success_rate_pct": 97.4
       },
       "community_mindshare": {
-        "github_stars": 82125,
+        "github_stars": 82127,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 91.49
@@ -732,7 +732,7 @@
         "reliability_success_rate_pct": 100.0
       },
       "community_mindshare": {
-        "github_stars": 30920,
+        "github_stars": 30922,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 86.95
@@ -824,7 +824,7 @@
         "reliability_success_rate_pct": 94.2
       },
       "community_mindshare": {
-        "github_stars": 28771,
+        "github_stars": 28773,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 84.66
@@ -847,7 +847,7 @@
         "reliability_success_rate_pct": 95.0
       },
       "community_mindshare": {
-        "github_stars": 27832,
+        "github_stars": 27833,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 84.1
@@ -870,7 +870,7 @@
         "reliability_success_rate_pct": 97.4
       },
       "community_mindshare": {
-        "github_stars": 64434,
+        "github_stars": 64433,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 89.31
@@ -893,7 +893,7 @@
         "reliability_success_rate_pct": 100.0
       },
       "community_mindshare": {
-        "github_stars": 40786,
+        "github_stars": 40791,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 87.38
@@ -916,7 +916,7 @@
         "reliability_success_rate_pct": 100.0
       },
       "community_mindshare": {
-        "github_stars": 39495,
+        "github_stars": 39497,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 86.09
@@ -939,7 +939,7 @@
         "reliability_success_rate_pct": 100.0
       },
       "community_mindshare": {
-        "github_stars": 28767,
+        "github_stars": 28768,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 85.29
@@ -962,7 +962,7 @@
         "reliability_success_rate_pct": 95.0
       },
       "community_mindshare": {
-        "github_stars": 19613,
+        "github_stars": 19614,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 83.14
@@ -1020,7 +1020,7 @@
       "developer": "topoteretes",
       "repository_url": "https://github.com/topoteretes/cognee",
       "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
-      "category": "Data & Analytics",
+      "category": "Agent Framework",
       "is_new_this_week": false,
       "overall_score": 84.6,
       "performance_metrics": {
@@ -1031,7 +1031,7 @@
         "reliability_success_rate_pct": 100.0
       },
       "community_mindshare": {
-        "github_stars": 30369,
+        "github_stars": 30372,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 84.95
@@ -1100,7 +1100,7 @@
         "reliability_success_rate_pct": 97.0
       },
       "community_mindshare": {
-        "github_stars": 69943,
+        "github_stars": 69957,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 89.78
@@ -1123,10 +1123,10 @@
         "reliability_success_rate_pct": 97.4
       },
       "community_mindshare": {
-        "github_stars": 65429,
+        "github_stars": 65430,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 89.06
+        "mindshare_score": 89.28
       }
     },
     {
@@ -1146,7 +1146,7 @@
         "reliability_success_rate_pct": 97.4
       },
       "community_mindshare": {
-        "github_stars": 68179,
+        "github_stars": 68182,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 88.88
@@ -1158,7 +1158,7 @@
       "developer": "rohitg00",
       "repository_url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
-      "category": "Agent Framework",
+      "category": "General AI Agent",
       "is_new_this_week": false,
       "overall_score": 84.5,
       "performance_metrics": {
@@ -1169,7 +1169,7 @@
         "reliability_success_rate_pct": 97.0
       },
       "community_mindshare": {
-        "github_stars": 51525,
+        "github_stars": 51534,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 88.68
@@ -1238,7 +1238,7 @@
         "reliability_success_rate_pct": 95.0
       },
       "community_mindshare": {
-        "github_stars": 16533,
+        "github_stars": 16537,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 81.49
@@ -1261,7 +1261,7 @@
         "reliability_success_rate_pct": 94.2
       },
       "community_mindshare": {
-        "github_stars": 24206,
+        "github_stars": 24207,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 82.86
@@ -1284,7 +1284,7 @@
         "reliability_success_rate_pct": 95.0
       },
       "community_mindshare": {
-        "github_stars": 106750,
+        "github_stars": 106751,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 92.29
@@ -1307,7 +1307,7 @@
         "reliability_success_rate_pct": 91.4
       },
       "community_mindshare": {
-        "github_stars": 91098,
+        "github_stars": 91114,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 90.79
@@ -1330,7 +1330,7 @@
         "reliability_success_rate_pct": 97.4
       },
       "community_mindshare": {
-        "github_stars": 53739,
+        "github_stars": 53741,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 88.29
@@ -1353,7 +1353,7 @@
         "reliability_success_rate_pct": 97.4
       },
       "community_mindshare": {
-        "github_stars": 30661,
+        "github_stars": 30662,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 87.57
@@ -1376,7 +1376,7 @@
         "reliability_success_rate_pct": 92.4
       },
       "community_mindshare": {
-        "github_stars": 179830,
+        "github_stars": 179831,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 94.51
@@ -1399,7 +1399,7 @@
         "reliability_success_rate_pct": 94.2
       },
       "community_mindshare": {
-        "github_stars": 64393,
+        "github_stars": 64395,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 92.67
@@ -1422,7 +1422,7 @@
         "reliability_success_rate_pct": 97.4
       },
       "community_mindshare": {
-        "github_stars": 40477,
+        "github_stars": 40478,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 87.29
@@ -1445,7 +1445,7 @@
         "reliability_success_rate_pct": 97.4
       },
       "community_mindshare": {
-        "github_stars": 32161,
+        "github_stars": 32167,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 86.16
@@ -1468,7 +1468,7 @@
         "reliability_success_rate_pct": 95.0
       },
       "community_mindshare": {
-        "github_stars": 153976,
+        "github_stars": 153978,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 92.95
@@ -1491,7 +1491,7 @@
         "reliability_success_rate_pct": 97.4
       },
       "community_mindshare": {
-        "github_stars": 43340,
+        "github_stars": 43351,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 86.83
@@ -1514,7 +1514,7 @@
         "reliability_success_rate_pct": 97.4
       },
       "community_mindshare": {
-        "github_stars": 38488,
+        "github_stars": 38487,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 86.67
@@ -1537,7 +1537,7 @@
         "reliability_success_rate_pct": 97.4
       },
       "community_mindshare": {
-        "github_stars": 29977,
+        "github_stars": 29979,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 85.73
@@ -1583,7 +1583,7 @@
         "reliability_success_rate_pct": 97.4
       },
       "community_mindshare": {
-        "github_stars": 39160,
+        "github_stars": 39171,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 86.32
@@ -1618,7 +1618,7 @@
       "developer": "OthmanAdi",
       "repository_url": "https://github.com/OthmanAdi/planning-with-files",
       "description": "Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, deterministic completion gate. Manus-style. Install from npm, the Claude Code plugin marketplace, or npx sk",
-      "category": "Coding & Software Engineering",
+      "category": "Agent Framework",
       "is_new_this_week": false,
       "overall_score": 83.9,
       "performance_metrics": {
@@ -1641,7 +1641,7 @@
       "developer": "firecrawl",
       "repository_url": "https://github.com/firecrawl/firecrawl",
       "description": "The context API to search, scrape, and interact with the web at scale. 🔥",
-      "category": "Browser & Computer Use",
+      "category": "Data & Analytics",
       "is_new_this_week": false,
       "overall_score": 83.7,
       "performance_metrics": {
@@ -1652,10 +1652,10 @@
         "reliability_success_rate_pct": 92.4
       },
       "community_mindshare": {
-        "github_stars": 174722,
+        "github_stars": 174735,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 93.33
+        "mindshare_score": 93.34
       }
     },
     {
@@ -1675,7 +1675,7 @@
         "reliability_success_rate_pct": 94.2
       },
       "community_mindshare": {
-        "github_stars": 92742,
+        "github_stars": 92749,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 90.76
@@ -1698,7 +1698,7 @@
         "reliability_success_rate_pct": 97.4
       },
       "community_mindshare": {
-        "github_stars": 21340,
+        "github_stars": 21341,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 84.16
@@ -1721,7 +1721,7 @@
         "reliability_success_rate_pct": 92.4
       },
       "community_mindshare": {
-        "github_stars": 99900,
+        "github_stars": 99919,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 91.77
@@ -1744,7 +1744,7 @@
         "reliability_success_rate_pct": 88.4
       },
       "community_mindshare": {
-        "github_stars": 118015,
+        "github_stars": 118061,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 88.65
@@ -1767,7 +1767,7 @@
         "reliability_success_rate_pct": 95.0
       },
       "community_mindshare": {
-        "github_stars": 68215,
+        "github_stars": 68216,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 87.85
@@ -1790,7 +1790,7 @@
         "reliability_success_rate_pct": 97.4
       },
       "community_mindshare": {
-        "github_stars": 24146,
+        "github_stars": 24147,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 84.69
@@ -1813,7 +1813,7 @@
         "reliability_success_rate_pct": 97.4
       },
       "community_mindshare": {
-        "github_stars": 27101,
+        "github_stars": 27102,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 84.61
@@ -1859,7 +1859,7 @@
         "reliability_success_rate_pct": 94.2
       },
       "community_mindshare": {
-        "github_stars": 46739,
+        "github_stars": 46740,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 88.7
@@ -1882,7 +1882,7 @@
         "reliability_success_rate_pct": 97.0
       },
       "community_mindshare": {
-        "github_stars": 28661,
+        "github_stars": 28676,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 84.67
@@ -1905,7 +1905,7 @@
         "reliability_success_rate_pct": 97.4
       },
       "community_mindshare": {
-        "github_stars": 22326,
+        "github_stars": 22328,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 83.88
@@ -1951,7 +1951,7 @@
         "reliability_success_rate_pct": 97.0
       },
       "community_mindshare": {
-        "github_stars": 149235,
+        "github_stars": 149245,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 93.83
@@ -1974,7 +1974,7 @@
         "reliability_success_rate_pct": 92.4
       },
       "community_mindshare": {
-        "github_stars": 89747,
+        "github_stars": 89753,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 91.1
@@ -1997,7 +1997,7 @@
         "reliability_success_rate_pct": 94.2
       },
       "community_mindshare": {
-        "github_stars": 68549,
+        "github_stars": 68551,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 89.01
@@ -2020,7 +2020,7 @@
         "reliability_success_rate_pct": 100.0
       },
       "community_mindshare": {
-        "github_stars": 42658,
+        "github_stars": 42661,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 88.1
@@ -2043,7 +2043,7 @@
         "reliability_success_rate_pct": 97.0
       },
       "community_mindshare": {
-        "github_stars": 27842,
+        "github_stars": 27845,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 84.25
@@ -2066,7 +2066,7 @@
         "reliability_success_rate_pct": 97.4
       },
       "community_mindshare": {
-        "github_stars": 38770,
+        "github_stars": 38769,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 83.43
@@ -2089,7 +2089,7 @@
         "reliability_success_rate_pct": 91.4
       },
       "community_mindshare": {
-        "github_stars": 18877,
+        "github_stars": 18883,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 82.66
@@ -2112,7 +2112,7 @@
         "reliability_success_rate_pct": 97.4
       },
       "community_mindshare": {
-        "github_stars": 35710,
+        "github_stars": 35713,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 86.56
@@ -2135,7 +2135,7 @@
         "reliability_success_rate_pct": 95.0
       },
       "community_mindshare": {
-        "github_stars": 27749,
+        "github_stars": 27751,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 85.93
@@ -2181,7 +2181,7 @@
         "reliability_success_rate_pct": 92.4
       },
       "community_mindshare": {
-        "github_stars": 85747,
+        "github_stars": 85752,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 91.04
@@ -2204,7 +2204,7 @@
         "reliability_success_rate_pct": 95.0
       },
       "community_mindshare": {
-        "github_stars": 41984,
+        "github_stars": 41985,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 87.31
@@ -2227,10 +2227,10 @@
         "reliability_success_rate_pct": 95.0
       },
       "community_mindshare": {
-        "github_stars": 34643,
+        "github_stars": 34651,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 85.21
+        "mindshare_score": 85.22
       }
     },
     {
@@ -2250,7 +2250,7 @@
         "reliability_success_rate_pct": 95.0
       },
       "community_mindshare": {
-        "github_stars": 30226,
+        "github_stars": 30230,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 85.17
@@ -2273,7 +2273,7 @@
         "reliability_success_rate_pct": 97.4
       },
       "community_mindshare": {
-        "github_stars": 20176,
+        "github_stars": 20177,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 82.28
@@ -2296,7 +2296,7 @@
         "reliability_success_rate_pct": 97.4
       },
       "community_mindshare": {
-        "github_stars": 13243,
+        "github_stars": 13245,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 81.45
