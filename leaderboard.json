@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-14T13:26:00Z",
+  "last_updated": "2026-09-14T16:03:44Z",
   "total_agents_evaluated": 200,
   "leaderboard": [
     {
@@ -19,7 +19,7 @@
         "reliability_success_rate_pct": 100.0
       },
       "community_mindshare": {
-        "github_stars": 67970,
+        "github_stars": 67973,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 89.43
@@ -42,7 +42,7 @@
         "reliability_success_rate_pct": 100.0
       },
       "community_mindshare": {
-        "github_stars": 46389,
+        "github_stars": 46396,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 87.91
@@ -65,7 +65,7 @@
         "reliability_success_rate_pct": 100.0
       },
       "community_mindshare": {
-        "github_stars": 44861,
+        "github_stars": 44892,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 86.89
@@ -88,7 +88,7 @@
         "reliability_success_rate_pct": 100.0
       },
       "community_mindshare": {
-        "github_stars": 258086,
+        "github_stars": 258175,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 97.18
@@ -111,7 +111,7 @@
         "reliability_success_rate_pct": 100.0
       },
       "community_mindshare": {
-        "github_stars": 187321,
+        "github_stars": 187323,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 96.34
@@ -134,7 +134,7 @@
         "reliability_success_rate_pct": 97.4
       },
       "community_mindshare": {
-        "github_stars": 389658,
+        "github_stars": 389663,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 100.0
@@ -157,7 +157,7 @@
         "reliability_success_rate_pct": 100.0
       },
       "community_mindshare": {
-        "github_stars": 204249,
+        "github_stars": 204265,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 97.14
@@ -180,7 +180,7 @@
         "reliability_success_rate_pct": 97.4
       },
       "community_mindshare": {
-        "github_stars": 51783,
+        "github_stars": 51788,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 87.76
@@ -203,7 +203,7 @@
         "reliability_success_rate_pct": 100.0
       },
       "community_mindshare": {
-        "github_stars": 155679,
+        "github_stars": 155694,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 94.56
@@ -226,7 +226,7 @@
         "reliability_success_rate_pct": 100.0
       },
       "community_mindshare": {
-        "github_stars": 146293,
+        "github_stars": 146305,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 94.33
@@ -249,7 +249,7 @@
         "reliability_success_rate_pct": 100.0
       },
       "community_mindshare": {
-        "github_stars": 29066,
+        "github_stars": 29067,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 84.2
@@ -272,7 +272,7 @@
         "reliability_success_rate_pct": 97.4
       },
       "community_mindshare": {
-        "github_stars": 44461,
+        "github_stars": 44466,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 86.33
@@ -295,10 +295,10 @@
         "reliability_success_rate_pct": 97.4
       },
       "community_mindshare": {
-        "github_stars": 26728,
+        "github_stars": 26733,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 85.32
+        "mindshare_score": 85.43
       }
     },
     {
@@ -318,7 +318,7 @@
         "reliability_success_rate_pct": 95.0
       },
       "community_mindshare": {
-        "github_stars": 58517,
+        "github_stars": 58525,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 89.14
@@ -341,7 +341,7 @@
         "reliability_success_rate_pct": 97.0
       },
       "community_mindshare": {
-        "github_stars": 35538,
+        "github_stars": 35540,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 85.11
@@ -364,10 +364,10 @@
         "reliability_success_rate_pct": 92.4
       },
       "community_mindshare": {
-        "github_stars": 223502,
+        "github_stars": 223703,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 95.67
+        "mindshare_score": 95.68
       }
     },
     {
@@ -387,7 +387,7 @@
         "reliability_success_rate_pct": 94.2
       },
       "community_mindshare": {
-        "github_stars": 62008,
+        "github_stars": 62016,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 88.56
@@ -410,10 +410,10 @@
         "reliability_success_rate_pct": 94.2
       },
       "community_mindshare": {
-        "github_stars": 80824,
+        "github_stars": 80964,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 88.54
+        "mindshare_score": 88.55
       }
     },
     {
@@ -433,10 +433,10 @@
         "reliability_success_rate_pct": 100.0
       },
       "community_mindshare": {
-        "github_stars": 65952,
+        "github_stars": 66020,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 89.51
+        "mindshare_score": 89.52
       }
     },
     {
@@ -445,7 +445,7 @@
       "developer": "calcom",
       "repository_url": "https://github.com/calcom/cal.diy",
       "description": "Scheduling infrastructure for absolutely everyone.",
-      "category": "DevOps & Infrastructure",
+      "category": "Workflow Orchestration",
       "is_new_this_week": false,
       "overall_score": 85.5,
       "performance_metrics": {
@@ -456,7 +456,7 @@
         "reliability_success_rate_pct": 100.0
       },
       "community_mindshare": {
-        "github_stars": 48447,
+        "github_stars": 48451,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 89.49
@@ -468,7 +468,7 @@
       "developer": "run-llama",
       "repository_url": "https://github.com/run-llama/llama_index",
       "description": "LlamaIndex is the document processing platform for AI",
-      "category": "Agent Framework",
+      "category": "Data & Analytics",
       "is_new_this_week": false,
       "overall_score": 85.5,
       "performance_metrics": {
@@ -479,7 +479,7 @@
         "reliability_success_rate_pct": 100.0
       },
       "community_mindshare": {
-        "github_stars": 52155,
+        "github_stars": 52157,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 88.44
@@ -502,10 +502,10 @@
         "reliability_success_rate_pct": 94.2
       },
       "community_mindshare": {
-        "github_stars": 58959,
+        "github_stars": 58995,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 88.04
+        "mindshare_score": 88.05
       }
     },
     {
@@ -525,7 +525,7 @@
         "reliability_success_rate_pct": 97.4
       },
       "community_mindshare": {
-        "github_stars": 29322,
+        "github_stars": 29323,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 82.68
@@ -548,7 +548,7 @@
         "reliability_success_rate_pct": 100.0
       },
       "community_mindshare": {
-        "github_stars": 16211,
+        "github_stars": 16215,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 81.61
@@ -571,7 +571,7 @@
         "reliability_success_rate_pct": 97.0
       },
       "community_mindshare": {
-        "github_stars": 39640,
+        "github_stars": 39643,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 86.51
@@ -594,7 +594,7 @@
         "reliability_success_rate_pct": 97.4
       },
       "community_mindshare": {
-        "github_stars": 17632,
+        "github_stars": 17633,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 82.27
@@ -617,10 +617,10 @@
         "reliability_success_rate_pct": 95.0
       },
       "community_mindshare": {
-        "github_stars": 245350,
+        "github_stars": 245396,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 97.49
+        "mindshare_score": 97.5
       }
     },
     {
@@ -640,10 +640,10 @@
         "reliability_success_rate_pct": 100.0
       },
       "community_mindshare": {
-        "github_stars": 43399,
+        "github_stars": 43455,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 88.17
+        "mindshare_score": 88.18
       }
     },
     {
@@ -663,7 +663,7 @@
         "reliability_success_rate_pct": 97.4
       },
       "community_mindshare": {
-        "github_stars": 82417,
+        "github_stars": 82427,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 90.9
@@ -686,7 +686,7 @@
         "reliability_success_rate_pct": 92.4
       },
       "community_mindshare": {
-        "github_stars": 76740,
+        "github_stars": 76760,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 88.79
@@ -709,7 +709,7 @@
         "reliability_success_rate_pct": 97.4
       },
       "community_mindshare": {
-        "github_stars": 82465,
+        "github_stars": 82467,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 91.49
@@ -732,7 +732,7 @@
         "reliability_success_rate_pct": 100.0
       },
       "community_mindshare": {
-        "github_stars": 40907,
+        "github_stars": 40908,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 87.07
@@ -744,7 +744,7 @@
       "developer": "Gitlawb",
       "repository_url": "https://github.com/Gitlawb/openclaude",
       "description": "runs anywhere. uses anything",
-      "category": "Chatbot & Conversational",
+      "category": "General AI Agent",
       "is_new_this_week": false,
       "overall_score": 85.0,
       "performance_metrics": {
@@ -755,7 +755,7 @@
         "reliability_success_rate_pct": 100.0
       },
       "community_mindshare": {
-        "github_stars": 33266,
+        "github_stars": 33271,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 87.01
@@ -778,7 +778,7 @@
         "reliability_success_rate_pct": 95.0
       },
       "community_mindshare": {
-        "github_stars": 28068,
+        "github_stars": 28073,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 84.14
@@ -801,7 +801,7 @@
         "reliability_success_rate_pct": 100.0
       },
       "community_mindshare": {
-        "github_stars": 40967,
+        "github_stars": 40968,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 86.33
@@ -824,10 +824,10 @@
         "reliability_success_rate_pct": 95.0
       },
       "community_mindshare": {
-        "github_stars": 38006,
+        "github_stars": 38011,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 85.71
+        "mindshare_score": 85.93
       }
     },
     {
@@ -847,7 +847,7 @@
         "reliability_success_rate_pct": 100.0
       },
       "community_mindshare": {
-        "github_stars": 29628,
+        "github_stars": 29629,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 85.28
@@ -893,7 +893,7 @@
         "reliability_success_rate_pct": 97.4
       },
       "community_mindshare": {
-        "github_stars": 71559,
+        "github_stars": 71571,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 90.7
@@ -905,7 +905,7 @@
       "developer": "mem0ai",
       "repository_url": "https://github.com/mem0ai/mem0",
       "description": "The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.",
-      "category": "DevOps & Infrastructure",
+      "category": "Agent Framework",
       "is_new_this_week": false,
       "overall_score": 84.8,
       "performance_metrics": {
@@ -916,7 +916,7 @@
         "reliability_success_rate_pct": 97.4
       },
       "community_mindshare": {
-        "github_stars": 65270,
+        "github_stars": 65276,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 89.36
@@ -939,7 +939,7 @@
         "reliability_success_rate_pct": 100.0
       },
       "community_mindshare": {
-        "github_stars": 41618,
+        "github_stars": 41621,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 87.59
@@ -962,7 +962,7 @@
         "reliability_success_rate_pct": 100.0
       },
       "community_mindshare": {
-        "github_stars": 39787,
+        "github_stars": 39788,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 86.13
@@ -985,7 +985,7 @@
         "reliability_success_rate_pct": 100.0
       },
       "community_mindshare": {
-        "github_stars": 29400,
+        "github_stars": 29402,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 85.39
@@ -1008,7 +1008,7 @@
         "reliability_success_rate_pct": 94.2
       },
       "community_mindshare": {
-        "github_stars": 14378,
+        "github_stars": 14380,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 84.09
@@ -1031,10 +1031,10 @@
         "reliability_success_rate_pct": 95.0
       },
       "community_mindshare": {
-        "github_stars": 19928,
+        "github_stars": 19931,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 83.24
+        "mindshare_score": 83.25
       }
     },
     {
@@ -1054,7 +1054,7 @@
         "reliability_success_rate_pct": 100.0
       },
       "community_mindshare": {
-        "github_stars": 28109,
+        "github_stars": 28110,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 84.66
@@ -1077,10 +1077,10 @@
         "reliability_success_rate_pct": 100.0
       },
       "community_mindshare": {
-        "github_stars": 30677,
+        "github_stars": 30679,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 84.99
+        "mindshare_score": 85.0
       }
     },
     {
@@ -1123,7 +1123,7 @@
         "reliability_success_rate_pct": 94.2
       },
       "community_mindshare": {
-        "github_stars": 29274,
+        "github_stars": 29277,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 83.17
@@ -1146,7 +1146,7 @@
         "reliability_success_rate_pct": 97.0
       },
       "community_mindshare": {
-        "github_stars": 72400,
+        "github_stars": 72417,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 89.93
@@ -1169,7 +1169,7 @@
         "reliability_success_rate_pct": 97.4
       },
       "community_mindshare": {
-        "github_stars": 72026,
+        "github_stars": 72066,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 89.14
@@ -1192,7 +1192,7 @@
         "reliability_success_rate_pct": 97.4
       },
       "community_mindshare": {
-        "github_stars": 66003,
+        "github_stars": 66006,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 88.99
@@ -1215,10 +1215,10 @@
         "reliability_success_rate_pct": 100.0
       },
       "community_mindshare": {
-        "github_stars": 32100,
+        "github_stars": 32101,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 84.59
+        "mindshare_score": 84.48
       }
     },
     {
@@ -1238,7 +1238,7 @@
         "reliability_success_rate_pct": 94.2
       },
       "community_mindshare": {
-        "github_stars": 24707,
+        "github_stars": 24712,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 83.49
@@ -1261,7 +1261,7 @@
         "reliability_success_rate_pct": 91.4
       },
       "community_mindshare": {
-        "github_stars": 94221,
+        "github_stars": 94258,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 90.94
@@ -1284,7 +1284,7 @@
         "reliability_success_rate_pct": 97.0
       },
       "community_mindshare": {
-        "github_stars": 54530,
+        "github_stars": 54540,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 88.32
@@ -1296,7 +1296,7 @@
       "developer": "google-gemini",
       "repository_url": "https://github.com/google-gemini/gemini-cli",
       "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
-      "category": "Chatbot & Conversational",
+      "category": "General AI Agent",
       "is_new_this_week": false,
       "overall_score": 84.3,
       "performance_metrics": {
@@ -1307,7 +1307,7 @@
         "reliability_success_rate_pct": 95.0
       },
       "community_mindshare": {
-        "github_stars": 106970,
+        "github_stars": 106971,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 92.28
@@ -1330,10 +1330,10 @@
         "reliability_success_rate_pct": 88.4
       },
       "community_mindshare": {
-        "github_stars": 137962,
+        "github_stars": 138106,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 92.0
+        "mindshare_score": 92.01
       }
     },
     {
@@ -1353,7 +1353,7 @@
         "reliability_success_rate_pct": 100.0
       },
       "community_mindshare": {
-        "github_stars": 29445,
+        "github_stars": 29448,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 83.45
@@ -1376,7 +1376,7 @@
         "reliability_success_rate_pct": 97.4
       },
       "community_mindshare": {
-        "github_stars": 54249,
+        "github_stars": 54256,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 88.33
@@ -1388,7 +1388,7 @@
       "developer": "nanocoai",
       "repository_url": "https://github.com/nanocoai/nanoclaw",
       "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK",
-      "category": "Chatbot & Conversational",
+      "category": "General AI Agent",
       "is_new_this_week": false,
       "overall_score": 84.2,
       "performance_metrics": {
@@ -1399,7 +1399,7 @@
         "reliability_success_rate_pct": 97.4
       },
       "community_mindshare": {
-        "github_stars": 30761,
+        "github_stars": 30762,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 87.56
@@ -1422,10 +1422,10 @@
         "reliability_success_rate_pct": 97.4
       },
       "community_mindshare": {
-        "github_stars": 49874,
+        "github_stars": 49915,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 87.47
+        "mindshare_score": 87.48
       }
     },
     {
@@ -1445,7 +1445,7 @@
         "reliability_success_rate_pct": 97.4
       },
       "community_mindshare": {
-        "github_stars": 33419,
+        "github_stars": 33427,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 86.35
@@ -1468,7 +1468,7 @@
         "reliability_success_rate_pct": 92.4
       },
       "community_mindshare": {
-        "github_stars": 180897,
+        "github_stars": 180917,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 94.54
@@ -1491,7 +1491,7 @@
         "reliability_success_rate_pct": 94.2
       },
       "community_mindshare": {
-        "github_stars": 65036,
+        "github_stars": 65045,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 92.71
@@ -1514,7 +1514,7 @@
         "reliability_success_rate_pct": 97.4
       },
       "community_mindshare": {
-        "github_stars": 40526,
+        "github_stars": 40527,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 87.28
@@ -1537,7 +1537,7 @@
         "reliability_success_rate_pct": 97.4
       },
       "community_mindshare": {
-        "github_stars": 30166,
+        "github_stars": 30167,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 85.75
@@ -1560,10 +1560,10 @@
         "reliability_success_rate_pct": 95.0
       },
       "community_mindshare": {
-        "github_stars": 154788,
+        "github_stars": 154792,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 92.96
+        "mindshare_score": 92.97
       }
     },
     {
@@ -1583,7 +1583,7 @@
         "reliability_success_rate_pct": 97.4
       },
       "community_mindshare": {
-        "github_stars": 38992,
+        "github_stars": 38997,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 86.73
@@ -1606,7 +1606,7 @@
         "reliability_success_rate_pct": 97.4
       },
       "community_mindshare": {
-        "github_stars": 39777,
+        "github_stars": 39779,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 86.39
@@ -1629,7 +1629,7 @@
         "reliability_success_rate_pct": 97.4
       },
       "community_mindshare": {
-        "github_stars": 29420,
+        "github_stars": 29422,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 85.63
@@ -1652,7 +1652,7 @@
         "reliability_success_rate_pct": 97.4
       },
       "community_mindshare": {
-        "github_stars": 32802,
+        "github_stars": 32804,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 86.1
@@ -1675,7 +1675,7 @@
         "reliability_success_rate_pct": 97.4
       },
       "community_mindshare": {
-        "github_stars": 38971,
+        "github_stars": 38974,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 85.99
@@ -1683,29 +1683,6 @@
     },
     {
       "rank": 74,
-      "agent_name": "FinceptTerminal",
-      "developer": "Fincept-Corporation",
-      "repository_url": "https://github.com/Fincept-Corporation/FinceptTerminal",
-      "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
-      "category": "Data & Analytics",
-      "is_new_this_week": false,
-      "overall_score": 83.9,
-      "performance_metrics": {
-        "tool_selection_quality_pct": 51.2,
-        "autonomous_iteration_avg_steps": 20.0,
-        "cost_efficiency_usd_per_task": 0.05,
-        "latency_per_step_ms": 500.0,
-        "reliability_success_rate_pct": 97.4
-      },
-      "community_mindshare": {
-        "github_stars": 31569,
-        "hf_likes": 0,
-        "paper_citations": 0,
-        "mindshare_score": 85.23
-      }
-    },
-    {
-      "rank": 75,
       "agent_name": "planning-with-files",
       "developer": "OthmanAdi",
       "repository_url": "https://github.com/OthmanAdi/planning-with-files",
@@ -1721,14 +1698,14 @@
         "reliability_success_rate_pct": 94.2
       },
       "community_mindshare": {
-        "github_stars": 26879,
+        "github_stars": 26883,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 83.98
       }
     },
     {
-      "rank": 76,
+      "rank": 75,
       "agent_name": "firecrawl",
       "developer": "firecrawl",
       "repository_url": "https://github.com/firecrawl/firecrawl",
@@ -1744,10 +1721,33 @@
         "reliability_success_rate_pct": 92.4
       },
       "community_mindshare": {
-        "github_stars": 180234,
+        "github_stars": 180299,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 93.46
+      }
+    },
+    {
+      "rank": 76,
+      "agent_name": "FinceptTerminal",
+      "developer": "Fincept-Corporation",
+      "repository_url": "https://github.com/Fincept-Corporation/FinceptTerminal",
+      "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
+      "category": "Data & Analytics",
+      "is_new_this_week": false,
+      "overall_score": 83.8,
+      "performance_metrics": {
+        "tool_selection_quality_pct": 51.2,
+        "autonomous_iteration_avg_steps": 20.0,
+        "cost_efficiency_usd_per_task": 0.05,
+        "latency_per_step_ms": 500.0,
+        "reliability_success_rate_pct": 97.4
+      },
+      "community_mindshare": {
+        "github_stars": 31590,
+        "hf_likes": 0,
+        "paper_citations": 0,
+        "mindshare_score": 85.12
       }
     },
     {
@@ -1767,7 +1767,7 @@
         "reliability_success_rate_pct": 94.2
       },
       "community_mindshare": {
-        "github_stars": 93837,
+        "github_stars": 93853,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 90.69
@@ -1793,7 +1793,7 @@
         "github_stars": 21530,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 84.1
+        "mindshare_score": 84.21
       }
     },
     {
@@ -1813,7 +1813,7 @@
         "reliability_success_rate_pct": 92.4
       },
       "community_mindshare": {
-        "github_stars": 104990,
+        "github_stars": 105036,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 92.04
@@ -1836,7 +1836,7 @@
         "reliability_success_rate_pct": 95.0
       },
       "community_mindshare": {
-        "github_stars": 68318,
+        "github_stars": 68320,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 89.06
@@ -1859,7 +1859,7 @@
         "reliability_success_rate_pct": 97.0
       },
       "community_mindshare": {
-        "github_stars": 31073,
+        "github_stars": 31094,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 85.16
@@ -1882,7 +1882,7 @@
         "reliability_success_rate_pct": 97.4
       },
       "community_mindshare": {
-        "github_stars": 24440,
+        "github_stars": 24442,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 84.75
@@ -1905,7 +1905,7 @@
         "reliability_success_rate_pct": 97.4
       },
       "community_mindshare": {
-        "github_stars": 27301,
+        "github_stars": 27303,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 84.65
@@ -1928,10 +1928,10 @@
         "reliability_success_rate_pct": 97.4
       },
       "community_mindshare": {
-        "github_stars": 19332,
+        "github_stars": 19333,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 84.45
+        "mindshare_score": 84.46
       }
     },
     {
@@ -1951,10 +1951,10 @@
         "reliability_success_rate_pct": 97.0
       },
       "community_mindshare": {
-        "github_stars": 152235,
+        "github_stars": 152259,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 94.36
+        "mindshare_score": 94.37
       }
     },
     {
@@ -1974,7 +1974,7 @@
         "reliability_success_rate_pct": 94.2
       },
       "community_mindshare": {
-        "github_stars": 46968,
+        "github_stars": 46969,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 88.71
@@ -1997,7 +1997,7 @@
         "reliability_success_rate_pct": 95.0
       },
       "community_mindshare": {
-        "github_stars": 48549,
+        "github_stars": 48553,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 87.08
@@ -2009,7 +2009,7 @@
       "developer": "pascalorg",
       "repository_url": "https://github.com/pascalorg/editor",
       "description": "Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.",
-      "category": "Coding & Software Engineering",
+      "category": "Browser & Computer Use",
       "is_new_this_week": false,
       "overall_score": 83.5,
       "performance_metrics": {
@@ -2020,7 +2020,7 @@
         "reliability_success_rate_pct": 97.4
       },
       "community_mindshare": {
-        "github_stars": 23900,
+        "github_stars": 23902,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 84.06
@@ -2066,10 +2066,10 @@
         "reliability_success_rate_pct": 97.0
       },
       "community_mindshare": {
-        "github_stars": 26960,
+        "github_stars": 26988,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 83.78
+        "mindshare_score": 83.79
       }
     },
     {
@@ -2092,7 +2092,7 @@
         "github_stars": 32200,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 83.12
+        "mindshare_score": 83.23
       }
     },
     {
@@ -2101,7 +2101,7 @@
       "developer": "infiniflow",
       "repository_url": "https://github.com/infiniflow/ragflow",
       "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
-      "category": "Data & Analytics",
+      "category": "Agent Framework",
       "is_new_this_week": false,
       "overall_score": 83.4,
       "performance_metrics": {
@@ -2112,7 +2112,7 @@
         "reliability_success_rate_pct": 92.4
       },
       "community_mindshare": {
-        "github_stars": 90667,
+        "github_stars": 90676,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 91.14
@@ -2124,7 +2124,7 @@
       "developer": "code-yeongyu",
       "repository_url": "https://github.com/code-yeongyu/oh-my-openagent",
       "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-      "category": "Workflow Orchestration",
+      "category": "Agent Framework",
       "is_new_this_week": false,
       "overall_score": 83.4,
       "performance_metrics": {
@@ -2135,7 +2135,7 @@
         "reliability_success_rate_pct": 94.2
       },
       "community_mindshare": {
-        "github_stars": 69030,
+        "github_stars": 69036,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 89.04
@@ -2158,7 +2158,7 @@
         "reliability_success_rate_pct": 97.0
       },
       "community_mindshare": {
-        "github_stars": 28418,
+        "github_stars": 28427,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 84.35
@@ -2181,7 +2181,7 @@
         "reliability_success_rate_pct": 91.4
       },
       "community_mindshare": {
-        "github_stars": 19668,
+        "github_stars": 19678,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 82.89
@@ -2204,7 +2204,7 @@
         "reliability_success_rate_pct": 95.0
       },
       "community_mindshare": {
-        "github_stars": 27947,
+        "github_stars": 27950,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 85.95
@@ -2227,10 +2227,10 @@
         "reliability_success_rate_pct": 92.4
       },
       "community_mindshare": {
-        "github_stars": 87859,
+        "github_stars": 87874,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 91.15
+        "mindshare_score": 91.16
       }
     },
     {
@@ -2250,7 +2250,7 @@
         "reliability_success_rate_pct": 95.0
       },
       "community_mindshare": {
-        "github_stars": 39579,
+        "github_stars": 39589,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 86.79
@@ -2273,7 +2273,7 @@
         "reliability_success_rate_pct": 97.4
       },
       "community_mindshare": {
-        "github_stars": 35900,
+        "github_stars": 35903,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 86.58
@@ -2296,10 +2296,10 @@
         "reliability_success_rate_pct": 95.0
       },
       "community_mindshare": {
-        "github_stars": 37155,
+        "github_stars": 37183,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 85.58
+        "mindshare_score": 85.59
       }
     }
   ]
