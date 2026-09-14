@@ -4,7 +4,7 @@
 
 > Auto-updated mirror of the **Top 100 open-source AI agents**, ranked weekly on reliability, tool selection quality, autonomous iteration, efficiency, and community mindshare. Live site: **[https://www.theagenticleaderboard.com](https://www.theagenticleaderboard.com)**.
 
-**Last updated:** 2026-09-14T13:26:00Z  ·  **Agents evaluated:** 200
+**Last updated:** 2026-09-14T16:03:44Z  ·  **Agents evaluated:** 200
 
 📈 [Trend analysis](https://www.theagenticleaderboard.com/trends/) · 🏛 [History](https://www.theagenticleaderboard.com/history/) · 📬 [Weekly email](https://www.theagenticleaderboard.com/subscribe/) · 🧩 [Embed the live Top 10](https://www.theagenticleaderboard.com/widget/) · 🗂 [All data formats](https://www.theagenticleaderboard.com/methodology/#data)
 
@@ -29,8 +29,8 @@
 | #17 | [last30days-skill](https://www.theagenticleaderboard.com/agent/last30days-skill) | 85.6 | Research & Reasoning |
 | #18 | [Agent-Reach](https://www.theagenticleaderboard.com/agent/agent-reach) | 85.6 | Browser & Computer Use |
 | #19 | [OmniRoute](https://www.theagenticleaderboard.com/agent/omniroute) | 85.5 | DevOps & Infrastructure |
-| #20 | [cal.diy](https://www.theagenticleaderboard.com/agent/cal-diy) | 85.5 | DevOps & Infrastructure |
-| #21 | [llama_index](https://www.theagenticleaderboard.com/agent/llama-index) | 85.5 | Agent Framework |
+| #20 | [cal.diy](https://www.theagenticleaderboard.com/agent/cal-diy) | 85.5 | Workflow Orchestration |
+| #21 | [llama_index](https://www.theagenticleaderboard.com/agent/llama-index) | 85.5 | Data & Analytics |
 | #22 | [OpenMontage](https://www.theagenticleaderboard.com/agent/openmontage) | 85.5 | Multi-Modal Agent |
 | #23 | [smolagents](https://www.theagenticleaderboard.com/agent/smolagents) | 85.5 | Multi-Modal Agent |
 | #24 | [vibe-coding-cn](https://www.theagenticleaderboard.com/agent/vibe-coding-cn) | 85.5 | Coding & Software Engineering |
@@ -42,14 +42,14 @@
 | #30 | [learn-claude-code](https://www.theagenticleaderboard.com/agent/learn-claude-code) | 85.1 | Coding & Software Engineering |
 | #31 | [lobehub](https://www.theagenticleaderboard.com/agent/lobehub) | 85.0 | Workflow Orchestration |
 | #32 | [ToolJet](https://www.theagenticleaderboard.com/agent/tooljet) | 85.0 | Coding & Software Engineering |
-| #33 | [openclaude](https://www.theagenticleaderboard.com/agent/openclaude) | 85.0 | Chatbot & Conversational |
+| #33 | [openclaude](https://www.theagenticleaderboard.com/agent/openclaude) | 85.0 | General AI Agent |
 | #34 | [crush](https://www.theagenticleaderboard.com/agent/crush) | 85.0 | Coding & Software Engineering |
 | #35 | [Codewhale](https://www.theagenticleaderboard.com/agent/codewhale) | 84.9 | Coding & Software Engineering |
 | #36 | [dspy](https://www.theagenticleaderboard.com/agent/dspy) | 84.9 | Agent Framework |
 | #37 | [sim](https://www.theagenticleaderboard.com/agent/sim) | 84.9 | Workflow Orchestration |
 | #38 | [semantic-kernel](https://www.theagenticleaderboard.com/agent/semantic-kernel) | 84.9 | Agent Framework |
 | #39 | [career-ops](https://www.theagenticleaderboard.com/agent/career-ops) | 84.8 | Autonomous Agent |
-| #40 | [mem0](https://www.theagenticleaderboard.com/agent/mem0) | 84.8 | DevOps & Infrastructure |
+| #40 | [mem0](https://www.theagenticleaderboard.com/agent/mem0) | 84.8 | Agent Framework |
 | #41 | [langgraph](https://www.theagenticleaderboard.com/agent/langgraph) | 84.8 | Agent Framework |
 | #42 | [posthog](https://www.theagenticleaderboard.com/agent/posthog) | 84.8 | Data & Analytics |
 | #43 | [deepagents](https://www.theagenticleaderboard.com/agent/deepagents) | 84.8 | Agent Framework |
@@ -66,11 +66,11 @@
 | #54 | [distilly](https://www.theagenticleaderboard.com/agent/distilly) | 84.5 | Agent Framework |
 | #55 | [agent-skills](https://www.theagenticleaderboard.com/agent/agent-skills) | 84.4 | Coding & Software Engineering |
 | #56 | [ai-engineering-from-scratch](https://www.theagenticleaderboard.com/agent/ai-engineering-from-scratch) | 84.4 | General AI Agent |
-| #57 | [gemini-cli](https://www.theagenticleaderboard.com/agent/gemini-cli) | 84.3 | Chatbot & Conversational |
+| #57 | [gemini-cli](https://www.theagenticleaderboard.com/agent/gemini-cli) | 84.3 | General AI Agent |
 | #58 | [ponytail](https://www.theagenticleaderboard.com/agent/ponytail) | 84.3 | Coding & Software Engineering |
 | #59 | [gpt-researcher](https://www.theagenticleaderboard.com/agent/gpt-researcher) | 84.3 | Research & Reasoning |
 | #60 | [goose](https://www.theagenticleaderboard.com/agent/goose) | 84.2 | Coding & Software Engineering |
-| #61 | [nanoclaw](https://www.theagenticleaderboard.com/agent/nanoclaw) | 84.2 | Chatbot & Conversational |
+| #61 | [nanoclaw](https://www.theagenticleaderboard.com/agent/nanoclaw) | 84.2 | General AI Agent |
 | #62 | [hyperframes](https://www.theagenticleaderboard.com/agent/hyperframes) | 84.2 | Multi-Modal Agent |
 | #63 | [Vibe-Trading](https://www.theagenticleaderboard.com/agent/vibe-trading) | 84.2 | Autonomous Agent |
 | #64 | [ollama](https://www.theagenticleaderboard.com/agent/ollama) | 84.1 | DevOps & Infrastructure |
@@ -83,9 +83,9 @@
 | #71 | [openai-agents-python](https://www.theagenticleaderboard.com/agent/openai-agents-python) | 84.0 | Agent Framework |
 | #72 | [zeroclaw](https://www.theagenticleaderboard.com/agent/zeroclaw) | 83.9 | Agent Framework |
 | #73 | [UI-TARS-desktop](https://www.theagenticleaderboard.com/agent/ui-tars-desktop) | 83.9 | Browser & Computer Use |
-| #74 | [FinceptTerminal](https://www.theagenticleaderboard.com/agent/finceptterminal) | 83.9 | Data & Analytics |
-| #75 | [planning-with-files](https://www.theagenticleaderboard.com/agent/planning-with-files) | 83.9 | Coding & Software Engineering |
-| #76 | [firecrawl](https://www.theagenticleaderboard.com/agent/firecrawl) | 83.8 | Browser & Computer Use |
+| #74 | [planning-with-files](https://www.theagenticleaderboard.com/agent/planning-with-files) | 83.9 | Coding & Software Engineering |
+| #75 | [firecrawl](https://www.theagenticleaderboard.com/agent/firecrawl) | 83.8 | Browser & Computer Use |
+| #76 | [FinceptTerminal](https://www.theagenticleaderboard.com/agent/finceptterminal) | 83.8 | Data & Analytics |
 | #77 | [claude-mem](https://www.theagenticleaderboard.com/agent/claude-mem) | 83.7 | Agent Framework |
 | #78 | [adk-python](https://www.theagenticleaderboard.com/agent/adk-python) | 83.7 | Agent Framework |
 | #79 | [pi](https://www.theagenticleaderboard.com/agent/pi) | 83.6 | Agent Framework |
@@ -97,12 +97,12 @@
 | #85 | [agency-agents](https://www.theagenticleaderboard.com/agent/agency-agents) | 83.5 | General AI Agent |
 | #86 | [CowAgent](https://www.theagenticleaderboard.com/agent/cowagent) | 83.5 | Agent Framework |
 | #87 | [qlib](https://www.theagenticleaderboard.com/agent/qlib) | 83.5 | Data & Analytics |
-| #88 | [editor](https://www.theagenticleaderboard.com/agent/editor) | 83.5 | Coding & Software Engineering |
+| #88 | [editor](https://www.theagenticleaderboard.com/agent/editor) | 83.5 | Browser & Computer Use |
 | #89 | [NemoClaw](https://www.theagenticleaderboard.com/agent/nemoclaw) | 83.5 | DevOps & Infrastructure |
 | #90 | [obscura](https://www.theagenticleaderboard.com/agent/obscura) | 83.5 | Browser & Computer Use |
 | #91 | [conductor](https://www.theagenticleaderboard.com/agent/conductor) | 83.5 | Workflow Orchestration |
-| #92 | [ragflow](https://www.theagenticleaderboard.com/agent/ragflow) | 83.4 | Data & Analytics |
-| #93 | [oh-my-openagent](https://www.theagenticleaderboard.com/agent/oh-my-openagent) | 83.4 | Workflow Orchestration |
+| #92 | [ragflow](https://www.theagenticleaderboard.com/agent/ragflow) | 83.4 | Agent Framework |
+| #93 | [oh-my-openagent](https://www.theagenticleaderboard.com/agent/oh-my-openagent) | 83.4 | Agent Framework |
 | #94 | [agentmemory](https://www.theagenticleaderboard.com/agent/agentmemory) | 83.4 | Coding & Software Engineering |
 | #95 | [jcode](https://www.theagenticleaderboard.com/agent/jcode) | 83.4 | Coding & Software Engineering |
 | #96 | [mlflow](https://www.theagenticleaderboard.com/agent/mlflow) | 83.3 | DevOps & Infrastructure |
