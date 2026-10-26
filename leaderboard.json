@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-19T09:21:08Z",
+  "last_updated": "2026-10-26T09:21:22Z",
   "total_agents_evaluated": 200,
   "leaderboard": [
     {
@@ -19,10 +19,10 @@
         "reliability_success_rate_pct": 100.0
       },
       "community_mindshare": {
-        "github_stars": 70535,
+        "github_stars": 70860,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 89.61
+        "mindshare_score": 89.42
       }
     },
     {
@@ -42,10 +42,10 @@
         "reliability_success_rate_pct": 100.0
       },
       "community_mindshare": {
-        "github_stars": 52755,
+        "github_stars": 54668,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 87.35
+        "mindshare_score": 86.99
       }
     },
     {
@@ -65,10 +65,10 @@
         "reliability_success_rate_pct": 100.0
       },
       "community_mindshare": {
-        "github_stars": 283557,
+        "github_stars": 289124,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 97.63
+        "mindshare_score": 97.47
       }
     },
     {
@@ -79,7 +79,7 @@
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
       "category": "Autonomous Agent",
       "is_new_this_week": false,
-      "overall_score": 87.0,
+      "overall_score": 86.9,
       "performance_metrics": {
         "tool_selection_quality_pct": 51.2,
         "autonomous_iteration_avg_steps": 20.0,
@@ -88,10 +88,10 @@
         "reliability_success_rate_pct": 100.0
       },
       "community_mindshare": {
-        "github_stars": 187649,
+        "github_stars": 187756,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 96.29
+        "mindshare_score": 96.03
       }
     },
     {
@@ -111,10 +111,10 @@
         "reliability_success_rate_pct": 97.0
       },
       "community_mindshare": {
-        "github_stars": 85594,
+        "github_stars": 89444,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 89.81
+        "mindshare_score": 89.83
       }
     },
     {
@@ -125,7 +125,7 @@
       "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
       "category": "Browser & Computer Use",
       "is_new_this_week": false,
-      "overall_score": 86.7,
+      "overall_score": 86.6,
       "performance_metrics": {
         "tool_selection_quality_pct": 71.2,
         "autonomous_iteration_avg_steps": 25.0,
@@ -134,10 +134,10 @@
         "reliability_success_rate_pct": 97.4
       },
       "community_mindshare": {
-        "github_stars": 392434,
+        "github_stars": 393099,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 99.99
+        "mindshare_score": 99.72
       }
     },
     {
@@ -157,37 +157,14 @@
         "reliability_success_rate_pct": 100.0
       },
       "community_mindshare": {
-        "github_stars": 207976,
+        "github_stars": 208617,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 97.17
+        "mindshare_score": 96.91
       }
     },
     {
       "rank": 8,
-      "agent_name": "last30days-skill",
-      "developer": "mvanhorn",
-      "repository_url": "https://github.com/mvanhorn/last30days-skill",
-      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "category": "Research & Reasoning",
-      "is_new_this_week": false,
-      "overall_score": 86.6,
-      "performance_metrics": {
-        "tool_selection_quality_pct": 61.2,
-        "autonomous_iteration_avg_steps": 20.0,
-        "cost_efficiency_usd_per_task": 0.02,
-        "latency_per_step_ms": 500.0,
-        "reliability_success_rate_pct": 97.0
-      },
-      "community_mindshare": {
-        "github_stars": 64703,
-        "hf_likes": 0,
-        "paper_citations": 0,
-        "mindshare_score": 88.75
-      }
-    },
-    {
-      "rank": 9,
       "agent_name": "cherry-studio",
       "developer": "CherryHQ",
       "repository_url": "https://github.com/CherryHQ/cherry-studio",
@@ -203,10 +180,33 @@
         "reliability_success_rate_pct": 97.4
       },
       "community_mindshare": {
-        "github_stars": 52737,
+        "github_stars": 52990,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 87.83
+        "mindshare_score": 87.65
+      }
+    },
+    {
+      "rank": 9,
+      "agent_name": "rea",
+      "developer": "morluto",
+      "repository_url": "https://github.com/morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "category": "Coding & Software Engineering",
+      "is_new_this_week": false,
+      "overall_score": 86.5,
+      "performance_metrics": {
+        "tool_selection_quality_pct": 71.2,
+        "autonomous_iteration_avg_steps": 25.0,
+        "cost_efficiency_usd_per_task": 0.05,
+        "latency_per_step_ms": 500.0,
+        "reliability_success_rate_pct": 97.0
+      },
+      "community_mindshare": {
+        "github_stars": 387219,
+        "hf_likes": 0,
+        "paper_citations": 0,
+        "mindshare_score": 99.95
       }
     },
     {
@@ -226,33 +226,33 @@
         "reliability_success_rate_pct": 100.0
       },
       "community_mindshare": {
-        "github_stars": 158867,
+        "github_stars": 159582,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 94.62
+        "mindshare_score": 94.4
       }
     },
     {
       "rank": 11,
-      "agent_name": "rea",
-      "developer": "morluto",
-      "repository_url": "https://github.com/morluto/rea",
-      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "category": "Coding & Software Engineering",
+      "agent_name": "last30days-skill",
+      "developer": "mvanhorn",
+      "repository_url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "category": "Research & Reasoning",
       "is_new_this_week": false,
-      "overall_score": 86.4,
+      "overall_score": 86.5,
       "performance_metrics": {
-        "tool_selection_quality_pct": 71.2,
-        "autonomous_iteration_avg_steps": 25.0,
-        "cost_efficiency_usd_per_task": 0.05,
+        "tool_selection_quality_pct": 61.2,
+        "autonomous_iteration_avg_steps": 20.0,
+        "cost_efficiency_usd_per_task": 0.02,
         "latency_per_step_ms": 500.0,
         "reliability_success_rate_pct": 97.0
       },
       "community_mindshare": {
-        "github_stars": 328516,
+        "github_stars": 65515,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 99.36
+        "mindshare_score": 88.6
       }
     },
     {
@@ -263,7 +263,7 @@
       "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
       "category": "Browser & Computer Use",
       "is_new_this_week": false,
-      "overall_score": 86.4,
+      "overall_score": 86.3,
       "performance_metrics": {
         "tool_selection_quality_pct": 59.2,
         "autonomous_iteration_avg_steps": 20.0,
@@ -272,10 +272,10 @@
         "reliability_success_rate_pct": 100.0
       },
       "community_mindshare": {
-        "github_stars": 29498,
+        "github_stars": 29564,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 84.6
+        "mindshare_score": 83.95
       }
     },
     {
@@ -286,7 +286,7 @@
       "description": "The agent engineering platform.",
       "category": "Agent Framework",
       "is_new_this_week": false,
-      "overall_score": 86.3,
+      "overall_score": 86.2,
       "performance_metrics": {
         "tool_selection_quality_pct": 59.2,
         "autonomous_iteration_avg_steps": 22.5,
@@ -295,10 +295,10 @@
         "reliability_success_rate_pct": 100.0
       },
       "community_mindshare": {
-        "github_stars": 148063,
+        "github_stars": 148482,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 94.35
+        "mindshare_score": 94.12
       }
     },
     {
@@ -309,7 +309,7 @@
       "description": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents ",
       "category": "Agent Framework",
       "is_new_this_week": false,
-      "overall_score": 86.2,
+      "overall_score": 86.1,
       "performance_metrics": {
         "tool_selection_quality_pct": 71.2,
         "autonomous_iteration_avg_steps": 22.5,
@@ -318,44 +318,21 @@
         "reliability_success_rate_pct": 97.4
       },
       "community_mindshare": {
-        "github_stars": 27393,
+        "github_stars": 27517,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 85.56
+        "mindshare_score": 85.39
       }
     },
     {
       "rank": 15,
-      "agent_name": "Agent-Reach",
-      "developer": "Panniantong",
-      "repository_url": "https://github.com/Panniantong/Agent-Reach",
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "category": "Browser & Computer Use",
-      "is_new_this_week": false,
-      "overall_score": 86.1,
-      "performance_metrics": {
-        "tool_selection_quality_pct": 71.2,
-        "autonomous_iteration_avg_steps": 22.5,
-        "cost_efficiency_usd_per_task": 0.02,
-        "latency_per_step_ms": 500.0,
-        "reliability_success_rate_pct": 94.2
-      },
-      "community_mindshare": {
-        "github_stars": 99306,
-        "hf_likes": 0,
-        "paper_citations": 0,
-        "mindshare_score": 90.74
-      }
-    },
-    {
-      "rank": 16,
       "agent_name": "crewAI",
       "developer": "crewAIInc",
       "repository_url": "https://github.com/crewAIInc/crewAI",
       "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
       "category": "Agent Framework",
       "is_new_this_week": false,
-      "overall_score": 86.1,
+      "overall_score": 86.0,
       "performance_metrics": {
         "tool_selection_quality_pct": 71.2,
         "autonomous_iteration_avg_steps": 22.5,
@@ -364,37 +341,14 @@
         "reliability_success_rate_pct": 95.0
       },
       "community_mindshare": {
-        "github_stars": 59859,
+        "github_stars": 60114,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 89.25
+        "mindshare_score": 89.06
       }
     },
     {
-      "rank": 17,
-      "agent_name": "OpenMontage",
-      "developer": "calesthio",
-      "repository_url": "https://github.com/calesthio/OpenMontage",
-      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
-      "category": "Multi-Modal Agent",
-      "is_new_this_week": false,
-      "overall_score": 85.9,
-      "performance_metrics": {
-        "tool_selection_quality_pct": 71.2,
-        "autonomous_iteration_avg_steps": 22.5,
-        "cost_efficiency_usd_per_task": 0.02,
-        "latency_per_step_ms": 500.0,
-        "reliability_success_rate_pct": 94.2
-      },
-      "community_mindshare": {
-        "github_stars": 69695,
-        "hf_likes": 0,
-        "paper_citations": 0,
-        "mindshare_score": 89.62
-      }
-    },
-    {
-      "rank": 18,
+      "rank": 16,
       "agent_name": "DeepSeek-Reasonix",
       "developer": "esengine",
       "repository_url": "https://github.com/esengine/DeepSeek-Reasonix",
@@ -410,14 +364,37 @@
         "reliability_success_rate_pct": 97.0
       },
       "community_mindshare": {
-        "github_stars": 35862,
+        "github_stars": 35966,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 85.16
+        "mindshare_score": 84.99
       }
     },
     {
-      "rank": 19,
+      "rank": 17,
+      "agent_name": "smolagents",
+      "developer": "huggingface",
+      "repository_url": "https://github.com/huggingface/smolagents",
+      "description": "🤗 smolagents: a barebones library for agents that think in code.",
+      "category": "Multi-Modal Agent",
+      "is_new_this_week": false,
+      "overall_score": 85.9,
+      "performance_metrics": {
+        "tool_selection_quality_pct": 61.2,
+        "autonomous_iteration_avg_steps": 20.0,
+        "cost_efficiency_usd_per_task": 0.02,
+        "latency_per_step_ms": 500.0,
+        "reliability_success_rate_pct": 97.4
+      },
+      "community_mindshare": {
+        "github_stars": 30063,
+        "hf_likes": 0,
+        "paper_citations": 0,
+        "mindshare_score": 84.43
+      }
+    },
+    {
+      "rank": 18,
       "agent_name": "caveman",
       "developer": "JuliusBrussee",
       "repository_url": "https://github.com/JuliusBrussee/caveman",
@@ -433,19 +410,42 @@
         "reliability_success_rate_pct": 100.0
       },
       "community_mindshare": {
-        "github_stars": 113548,
+        "github_stars": 115130,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 91.05
+        "mindshare_score": 90.9
+      }
+    },
+    {
+      "rank": 19,
+      "agent_name": "OpenMontage",
+      "developer": "calesthio",
+      "repository_url": "https://github.com/calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+      "category": "Multi-Modal Agent",
+      "is_new_this_week": false,
+      "overall_score": 85.8,
+      "performance_metrics": {
+        "tool_selection_quality_pct": 71.2,
+        "autonomous_iteration_avg_steps": 22.5,
+        "cost_efficiency_usd_per_task": 0.02,
+        "latency_per_step_ms": 500.0,
+        "reliability_success_rate_pct": 94.2
+      },
+      "community_mindshare": {
+        "github_stars": 72001,
+        "hf_likes": 0,
+        "paper_citations": 0,
+        "mindshare_score": 89.58
       }
     },
     {
       "rank": 20,
-      "agent_name": "OmniRoute",
-      "developer": "diegosouzapw",
-      "repository_url": "https://github.com/diegosouzapw/OmniRoute",
-      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop",
-      "category": "DevOps & Infrastructure",
+      "agent_name": "crawl4ai",
+      "developer": "unclecode",
+      "repository_url": "https://github.com/unclecode/crawl4ai",
+      "description": "Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key. Join our Discord https://discord.gg/VuxzM8mtf",
+      "category": "Data & Analytics",
       "is_new_this_week": false,
       "overall_score": 85.7,
       "performance_metrics": {
@@ -456,106 +456,14 @@
         "reliability_success_rate_pct": 100.0
       },
       "community_mindshare": {
-        "github_stars": 78269,
+        "github_stars": 86286,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 90.67
+        "mindshare_score": 90.39
       }
     },
     {
       "rank": 21,
-      "agent_name": "crawl4ai",
-      "developer": "unclecode",
-      "repository_url": "https://github.com/unclecode/crawl4ai",
-      "description": "Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key.",
-      "category": "Browser & Computer Use",
-      "is_new_this_week": false,
-      "overall_score": 85.7,
-      "performance_metrics": {
-        "tool_selection_quality_pct": 71.2,
-        "autonomous_iteration_avg_steps": 25.0,
-        "cost_efficiency_usd_per_task": 0.05,
-        "latency_per_step_ms": 500.0,
-        "reliability_success_rate_pct": 100.0
-      },
-      "community_mindshare": {
-        "github_stars": 85810,
-        "hf_likes": 0,
-        "paper_citations": 0,
-        "mindshare_score": 90.57
-      }
-    },
-    {
-      "rank": 22,
-      "agent_name": "smolagents",
-      "developer": "huggingface",
-      "repository_url": "https://github.com/huggingface/smolagents",
-      "description": "🤗 smolagents: a barebones library for agents that think in code.",
-      "category": "Multi-Modal Agent",
-      "is_new_this_week": false,
-      "overall_score": 85.7,
-      "performance_metrics": {
-        "tool_selection_quality_pct": 61.2,
-        "autonomous_iteration_avg_steps": 20.0,
-        "cost_efficiency_usd_per_task": 0.02,
-        "latency_per_step_ms": 500.0,
-        "reliability_success_rate_pct": 97.4
-      },
-      "community_mindshare": {
-        "github_stars": 29920,
-        "hf_likes": 0,
-        "paper_citations": 0,
-        "mindshare_score": 83.58
-      }
-    },
-    {
-      "rank": 23,
-      "agent_name": "autogen",
-      "developer": "microsoft",
-      "repository_url": "https://github.com/microsoft/autogen",
-      "description": "A programming framework for agentic AI",
-      "category": "Agent Framework",
-      "is_new_this_week": false,
-      "overall_score": 85.6,
-      "performance_metrics": {
-        "tool_selection_quality_pct": 51.2,
-        "autonomous_iteration_avg_steps": 20.0,
-        "cost_efficiency_usd_per_task": 0.05,
-        "latency_per_step_ms": 500.0,
-        "reliability_success_rate_pct": 100.0
-      },
-      "community_mindshare": {
-        "github_stars": 61478,
-        "hf_likes": 0,
-        "paper_citations": 0,
-        "mindshare_score": 89.22
-      }
-    },
-    {
-      "rank": 24,
-      "agent_name": "vibe-coding-cn",
-      "developer": "tradecatlabs",
-      "repository_url": "https://github.com/tradecatlabs/vibe-coding-cn",
-      "description": "Vibe Coding 非严肃开发的从入门到精通的工具箱",
-      "category": "Coding & Software Engineering",
-      "is_new_this_week": false,
-      "overall_score": 85.6,
-      "performance_metrics": {
-        "tool_selection_quality_pct": 51.2,
-        "autonomous_iteration_avg_steps": 17.5,
-        "cost_efficiency_usd_per_task": 0.02,
-        "latency_per_step_ms": 500.0,
-        "reliability_success_rate_pct": 100.0
-      },
-      "community_mindshare": {
-        "github_stars": 17681,
-        "hf_likes": 0,
-        "paper_citations": 0,
-        "mindshare_score": 82.11
-      }
-    },
-    {
-      "rank": 25,
       "agent_name": "cal.diy",
       "developer": "calcom",
       "repository_url": "https://github.com/calcom/cal.diy",
@@ -571,14 +479,14 @@
         "reliability_success_rate_pct": 100.0
       },
       "community_mindshare": {
-        "github_stars": 49146,
+        "github_stars": 49378,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 89.53
+        "mindshare_score": 89.32
       }
     },
     {
-      "rank": 26,
+      "rank": 22,
       "agent_name": "llama_index",
       "developer": "run-llama",
       "repository_url": "https://github.com/run-llama/llama_index",
@@ -594,83 +502,14 @@
         "reliability_success_rate_pct": 100.0
       },
       "community_mindshare": {
-        "github_stars": 52564,
+        "github_stars": 52669,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 88.25
+        "mindshare_score": 88.27
       }
     },
     {
-      "rank": 27,
-      "agent_name": "agents",
-      "developer": "wshobson",
-      "repository_url": "https://github.com/wshobson/agents",
-      "description": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi",
-      "category": "Coding & Software Engineering",
-      "is_new_this_week": false,
-      "overall_score": 85.5,
-      "performance_metrics": {
-        "tool_selection_quality_pct": 51.2,
-        "autonomous_iteration_avg_steps": 17.5,
-        "cost_efficiency_usd_per_task": 0.02,
-        "latency_per_step_ms": 500.0,
-        "reliability_success_rate_pct": 97.0
-      },
-      "community_mindshare": {
-        "github_stars": 41066,
-        "hf_likes": 0,
-        "paper_citations": 0,
-        "mindshare_score": 86.66
-      }
-    },
-    {
-      "rank": 28,
-      "agent_name": "hermes-agent",
-      "developer": "NousResearch",
-      "repository_url": "https://github.com/NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
-      "category": "General AI Agent",
-      "is_new_this_week": false,
-      "overall_score": 85.4,
-      "performance_metrics": {
-        "tool_selection_quality_pct": 71.2,
-        "autonomous_iteration_avg_steps": 25.0,
-        "cost_efficiency_usd_per_task": 0.05,
-        "latency_per_step_ms": 500.0,
-        "reliability_success_rate_pct": 95.0
-      },
-      "community_mindshare": {
-        "github_stars": 255072,
-        "hf_likes": 0,
-        "paper_citations": 0,
-        "mindshare_score": 97.73
-      }
-    },
-    {
-      "rank": 29,
-      "agent_name": "ponytail",
-      "developer": "DietrichGebert",
-      "repository_url": "https://github.com/DietrichGebert/ponytail",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "category": "Coding & Software Engineering",
-      "is_new_this_week": false,
-      "overall_score": 85.4,
-      "performance_metrics": {
-        "tool_selection_quality_pct": 61.2,
-        "autonomous_iteration_avg_steps": 20.0,
-        "cost_efficiency_usd_per_task": 0.02,
-        "latency_per_step_ms": 500.0,
-        "reliability_success_rate_pct": 91.4
-      },
-      "community_mindshare": {
-        "github_stars": 167394,
-        "hf_likes": 0,
-        "paper_citations": 0,
-        "mindshare_score": 92.91
-      }
-    },
-    {
-      "rank": 30,
+      "rank": 23,
       "agent_name": "graphify",
       "developer": "Graphify-Labs",
       "repository_url": "https://github.com/Graphify-Labs/graphify",
@@ -686,18 +525,41 @@
         "reliability_success_rate_pct": 97.4
       },
       "community_mindshare": {
-        "github_stars": 128660,
+        "github_stars": 135590,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 92.4
+        "mindshare_score": 92.43
       }
     },
     {
-      "rank": 31,
+      "rank": 24,
+      "agent_name": "autogen",
+      "developer": "microsoft",
+      "repository_url": "https://github.com/microsoft/autogen",
+      "description": "A programming framework for agentic AI",
+      "category": "Agent Framework",
+      "is_new_this_week": false,
+      "overall_score": 85.4,
+      "performance_metrics": {
+        "tool_selection_quality_pct": 51.2,
+        "autonomous_iteration_avg_steps": 20.0,
+        "cost_efficiency_usd_per_task": 0.05,
+        "latency_per_step_ms": 500.0,
+        "reliability_success_rate_pct": 100.0
+      },
+      "community_mindshare": {
+        "github_stars": 61569,
+        "hf_likes": 0,
+        "paper_citations": 0,
+        "mindshare_score": 88.23
+      }
+    },
+    {
+      "rank": 25,
       "agent_name": "agentic-awesome-skills",
       "developer": "sickn33",
       "repository_url": "https://github.com/sickn33/agentic-awesome-skills",
-      "description": "AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,600+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.",
+      "description": "AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,750+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.",
       "category": "Agent Framework",
       "is_new_this_week": false,
       "overall_score": 85.4,
@@ -709,19 +571,88 @@
         "reliability_success_rate_pct": 100.0
       },
       "community_mindshare": {
-        "github_stars": 47926,
+        "github_stars": 48511,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 88.05
+        "mindshare_score": 87.78
       }
     },
     {
-      "rank": 32,
+      "rank": 26,
+      "agent_name": "agents",
+      "developer": "wshobson",
+      "repository_url": "https://github.com/wshobson/agents",
+      "description": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi",
+      "category": "Coding & Software Engineering",
+      "is_new_this_week": false,
+      "overall_score": 85.4,
+      "performance_metrics": {
+        "tool_selection_quality_pct": 51.2,
+        "autonomous_iteration_avg_steps": 17.5,
+        "cost_efficiency_usd_per_task": 0.02,
+        "latency_per_step_ms": 500.0,
+        "reliability_success_rate_pct": 97.0
+      },
+      "community_mindshare": {
+        "github_stars": 41733,
+        "hf_likes": 0,
+        "paper_citations": 0,
+        "mindshare_score": 86.53
+      }
+    },
+    {
+      "rank": 27,
+      "agent_name": "hermes-agent",
+      "developer": "NousResearch",
+      "repository_url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "category": "General AI Agent",
+      "is_new_this_week": false,
+      "overall_score": 85.3,
+      "performance_metrics": {
+        "tool_selection_quality_pct": 71.2,
+        "autonomous_iteration_avg_steps": 25.0,
+        "cost_efficiency_usd_per_task": 0.05,
+        "latency_per_step_ms": 500.0,
+        "reliability_success_rate_pct": 95.0
+      },
+      "community_mindshare": {
+        "github_stars": 257191,
+        "hf_likes": 0,
+        "paper_citations": 0,
+        "mindshare_score": 97.52
+      }
+    },
+    {
+      "rank": 28,
+      "agent_name": "ponytail",
+      "developer": "DietrichGebert",
+      "repository_url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "category": "Coding & Software Engineering",
+      "is_new_this_week": false,
+      "overall_score": 85.3,
+      "performance_metrics": {
+        "tool_selection_quality_pct": 61.2,
+        "autonomous_iteration_avg_steps": 20.0,
+        "cost_efficiency_usd_per_task": 0.02,
+        "latency_per_step_ms": 500.0,
+        "reliability_success_rate_pct": 91.4
+      },
+      "community_mindshare": {
+        "github_stars": 176481,
+        "hf_likes": 0,
+        "paper_citations": 0,
+        "mindshare_score": 92.2
+      }
+    },
+    {
+      "rank": 29,
       "agent_name": "deer-flow",
       "developer": "bytedance",
       "repository_url": "https://github.com/bytedance/deer-flow",
       "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
-      "category": "Autonomous Agent",
+      "category": "Agent Framework",
       "is_new_this_week": false,
       "overall_score": 85.1,
       "performance_metrics": {
@@ -732,89 +663,43 @@
         "reliability_success_rate_pct": 97.4
       },
       "community_mindshare": {
-        "github_stars": 84110,
+        "github_stars": 84436,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 90.99
+        "mindshare_score": 90.79
       }
     },
     {
-      "rank": 33,
+      "rank": 30,
+      "agent_name": "codebase-memory-mcp",
+      "developer": "DeusData",
+      "repository_url": "https://github.com/DeusData/codebase-memory-mcp",
+      "description": "Local code intelligence for developers and AI agents. Connect code, docs and infrastructure in a persistent graph, with CBM Lens, MCP tools, agent integrations and change-aware test selection.",
+      "category": "Coding & Software Engineering",
+      "is_new_this_week": false,
+      "overall_score": 85.1,
+      "performance_metrics": {
+        "tool_selection_quality_pct": 51.2,
+        "autonomous_iteration_avg_steps": 20.0,
+        "cost_efficiency_usd_per_task": 0.05,
+        "latency_per_step_ms": 500.0,
+        "reliability_success_rate_pct": 100.0
+      },
+      "community_mindshare": {
+        "github_stars": 47505,
+        "hf_likes": 0,
+        "paper_citations": 0,
+        "mindshare_score": 86.78
+      }
+    },
+    {
+      "rank": 31,
       "agent_name": "nanoclaw",
       "developer": "nanocoai",
       "repository_url": "https://github.com/nanocoai/nanoclaw",
       "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK",
       "category": "Chatbot & Conversational",
       "is_new_this_week": false,
-      "overall_score": 85.1,
-      "performance_metrics": {
-        "tool_selection_quality_pct": 71.2,
-        "autonomous_iteration_avg_steps": 25.0,
-        "cost_efficiency_usd_per_task": 0.05,
-        "latency_per_step_ms": 500.0,
-        "reliability_success_rate_pct": 100.0
-      },
-      "community_mindshare": {
-        "github_stars": 30966,
-        "hf_likes": 0,
-        "paper_citations": 0,
-        "mindshare_score": 87.55
-      }
-    },
-    {
-      "rank": 34,
-      "agent_name": "lobehub",
-      "developer": "lobehub",
-      "repository_url": "https://github.com/lobehub/lobehub",
-      "description": "🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.",
-      "category": "Workflow Orchestration",
-      "is_new_this_week": false,
-      "overall_score": 85.0,
-      "performance_metrics": {
-        "tool_selection_quality_pct": 71.2,
-        "autonomous_iteration_avg_steps": 25.0,
-        "cost_efficiency_usd_per_task": 0.05,
-        "latency_per_step_ms": 500.0,
-        "reliability_success_rate_pct": 97.4
-      },
-      "community_mindshare": {
-        "github_stars": 83318,
-        "hf_likes": 0,
-        "paper_citations": 0,
-        "mindshare_score": 91.5
-      }
-    },
-    {
-      "rank": 35,
-      "agent_name": "learn-claude-code",
-      "developer": "shareAI-lab",
-      "repository_url": "https://github.com/shareAI-lab/learn-claude-code",
-      "description": "Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1",
-      "category": "Agent Framework",
-      "is_new_this_week": false,
-      "overall_score": 85.0,
-      "performance_metrics": {
-        "tool_selection_quality_pct": 71.2,
-        "autonomous_iteration_avg_steps": 22.5,
-        "cost_efficiency_usd_per_task": 0.02,
-        "latency_per_step_ms": 500.0,
-        "reliability_success_rate_pct": 92.4
-      },
-      "community_mindshare": {
-        "github_stars": 78812,
-        "hf_likes": 0,
-        "paper_citations": 0,
-        "mindshare_score": 88.66
-      }
-    },
-    {
-      "rank": 36,
-      "agent_name": "openclaude",
-      "developer": "Twigpine",
-      "repository_url": "https://github.com/Twigpine/openclaude",
-      "description": "runs anywhere. uses anything",
-      "category": "General AI Agent",
-      "is_new_this_week": false,
       "overall_score": 85.0,
       "performance_metrics": {
         "tool_selection_quality_pct": 71.2,
@@ -824,14 +709,37 @@
         "reliability_success_rate_pct": 100.0
       },
       "community_mindshare": {
-        "github_stars": 34006,
+        "github_stars": 31016,
         "hf_likes": 0,
         "paper_citations": 0,
         "mindshare_score": 87.3
       }
     },
     {
-      "rank": 37,
+      "rank": 32,
+      "agent_name": "openclaude",
+      "developer": "Twigpine",
+      "repository_url": "https://github.com/Twigpine/openclaude",
+      "description": "runs anywhere. uses anything",
+      "category": "Chatbot & Conversational",
+      "is_new_this_week": false,
+      "overall_score": 85.0,
+      "performance_metrics": {
+        "tool_selection_quality_pct": 71.2,
+        "autonomous_iteration_avg_steps": 25.0,
+        "cost_efficiency_usd_per_task": 0.05,
+        "latency_per_step_ms": 500.0,
+        "reliability_success_rate_pct": 100.0
+      },
+      "community_mindshare": {
+        "github_stars": 34158,
+        "hf_likes": 0,
+        "paper_citations": 0,
+        "mindshare_score": 87.07
+      }
+    },
+    {
+      "rank": 33,
       "agent_name": "ToolJet",
       "developer": "ToolJet",
       "repository_url": "https://github.com/ToolJet/ToolJet",
@@ -847,14 +755,14 @@
         "reliability_success_rate_pct": 100.0
       },
       "community_mindshare": {
-        "github_stars": 41107,
+        "github_stars": 41127,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 87.07
+        "mindshare_score": 86.86
       }
     },
     {
-      "rank": 38,
+      "rank": 34,
       "agent_name": "siyuan",
       "developer": "siyuan-note",
       "repository_url": "https://github.com/siyuan-note/siyuan",
@@ -870,19 +778,19 @@
         "reliability_success_rate_pct": 100.0
       },
       "community_mindshare": {
-        "github_stars": 46835,
+        "github_stars": 46939,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 86.51
+        "mindshare_score": 86.33
       }
     },
     {
-      "rank": 39,
-      "agent_name": "career-ops",
-      "developer": "career-ops-hq",
-      "repository_url": "https://github.com/career-ops-hq/career-ops",
-      "description": "Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, tailor an ATS-friendly resume and cover letter, get interview prep and a job application tracker. It helps you fill in each application; you press Submit. Runs locally in your AI cod",
-      "category": "Autonomous Agent",
+      "rank": 35,
+      "agent_name": "lobehub",
+      "developer": "lobehub",
+      "repository_url": "https://github.com/lobehub/lobehub",
+      "description": "🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.",
+      "category": "Workflow Orchestration",
       "is_new_this_week": false,
       "overall_score": 84.9,
       "performance_metrics": {
@@ -893,37 +801,14 @@
         "reliability_success_rate_pct": 97.4
       },
       "community_mindshare": {
-        "github_stars": 75561,
+        "github_stars": 83496,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 90.92
+        "mindshare_score": 91.27
       }
     },
     {
-      "rank": 40,
-      "agent_name": "ai-engineering-from-scratch",
-      "developer": "rohitg00",
-      "repository_url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "description": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
-      "category": "General AI Agent",
-      "is_new_this_week": false,
-      "overall_score": 84.9,
-      "performance_metrics": {
-        "tool_selection_quality_pct": 61.2,
-        "autonomous_iteration_avg_steps": 22.5,
-        "cost_efficiency_usd_per_task": 0.05,
-        "latency_per_step_ms": 500.0,
-        "reliability_success_rate_pct": 97.0
-      },
-      "community_mindshare": {
-        "github_stars": 71208,
-        "hf_likes": 0,
-        "paper_citations": 0,
-        "mindshare_score": 90.5
-      }
-    },
-    {
-      "rank": 41,
+      "rank": 36,
       "agent_name": "langgraph",
       "developer": "langchain-ai",
       "repository_url": "https://github.com/langchain-ai/langgraph",
@@ -939,83 +824,14 @@
         "reliability_success_rate_pct": 100.0
       },
       "community_mindshare": {
-        "github_stars": 43493,
+        "github_stars": 43919,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 87.8
+        "mindshare_score": 87.65
       }
     },
     {
-      "rank": 42,
-      "agent_name": "dspy",
-      "developer": "stanfordnlp",
-      "repository_url": "https://github.com/stanfordnlp/dspy",
-      "description": "DSPy: The framework for programming—not prompting—language models",
-      "category": "Agent Framework",
-      "is_new_this_week": false,
-      "overall_score": 84.9,
-      "performance_metrics": {
-        "tool_selection_quality_pct": 59.2,
-        "autonomous_iteration_avg_steps": 20.0,
-        "cost_efficiency_usd_per_task": 0.02,
-        "latency_per_step_ms": 500.0,
-        "reliability_success_rate_pct": 95.0
-      },
-      "community_mindshare": {
-        "github_stars": 38691,
-        "hf_likes": 0,
-        "paper_citations": 0,
-        "mindshare_score": 86.02
-      }
-    },
-    {
-      "rank": 43,
-      "agent_name": "semantic-kernel",
-      "developer": "microsoft",
-      "repository_url": "https://github.com/microsoft/semantic-kernel",
-      "description": "Integrate cutting-edge LLM technology quickly and easily into your apps",
-      "category": "Agent Framework",
-      "is_new_this_week": false,
-      "overall_score": 84.9,
-      "performance_metrics": {
-        "tool_selection_quality_pct": 61.2,
-        "autonomous_iteration_avg_steps": 22.5,
-        "cost_efficiency_usd_per_task": 0.05,
-        "latency_per_step_ms": 500.0,
-        "reliability_success_rate_pct": 100.0
-      },
-      "community_mindshare": {
-        "github_stars": 28672,
-        "hf_likes": 0,
-        "paper_citations": 0,
-        "mindshare_score": 85.54
-      }
-    },
-    {
-      "rank": 44,
-      "agent_name": "sim",
-      "developer": "simstudioai",
-      "repository_url": "https://github.com/simstudioai/sim",
-      "description": "Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.",
-      "category": "Workflow Orchestration",
-      "is_new_this_week": false,
-      "overall_score": 84.9,
-      "performance_metrics": {
-        "tool_selection_quality_pct": 61.2,
-        "autonomous_iteration_avg_steps": 22.5,
-        "cost_efficiency_usd_per_task": 0.05,
-        "latency_per_step_ms": 500.0,
-        "reliability_success_rate_pct": 100.0
-      },
-      "community_mindshare": {
-        "github_stars": 29838,
-        "hf_likes": 0,
-        "paper_citations": 0,
-        "mindshare_score": 85.29
-      }
-    },
-    {
-      "rank": 45,
+      "rank": 37,
       "agent_name": "OpenCLI",
       "developer": "jackwener",
       "repository_url": "https://github.com/jackwener/OpenCLI",
@@ -1031,19 +847,88 @@
         "reliability_success_rate_pct": 94.2
       },
       "community_mindshare": {
-        "github_stars": 30426,
+        "github_stars": 30655,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 84.83
+        "mindshare_score": 84.75
       }
     },
     {
-      "rank": 46,
-      "agent_name": "mem0",
-      "developer": "mem0ai",
-      "repository_url": "https://github.com/mem0ai/mem0",
-      "description": "The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.",
+      "rank": 38,
+      "agent_name": "iFixAi",
+      "developer": "ifixai-ai",
+      "repository_url": "https://github.com/ifixai-ai/iFixAi",
+      "description": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.",
       "category": "DevOps & Infrastructure",
+      "is_new_this_week": false,
+      "overall_score": 84.9,
+      "performance_metrics": {
+        "tool_selection_quality_pct": 61.2,
+        "autonomous_iteration_avg_steps": 20.0,
+        "cost_efficiency_usd_per_task": 0.02,
+        "latency_per_step_ms": 500.0,
+        "reliability_success_rate_pct": 95.0
+      },
+      "community_mindshare": {
+        "github_stars": 34635,
+        "hf_likes": 0,
+        "paper_citations": 0,
+        "mindshare_score": 84.1
+      }
+    },
+    {
+      "rank": 39,
+      "agent_name": "career-ops",
+      "developer": "career-ops-hq",
+      "repository_url": "https://github.com/career-ops-hq/career-ops",
+      "description": "Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, tailor an ATS-friendly resume and cover letter, get interview prep and a job application tracker. It helps you fill in each application; you press Submit. Runs locally in your AI cod",
+      "category": "Autonomous Agent",
+      "is_new_this_week": false,
+      "overall_score": 84.8,
+      "performance_metrics": {
+        "tool_selection_quality_pct": 71.2,
+        "autonomous_iteration_avg_steps": 25.0,
+        "cost_efficiency_usd_per_task": 0.05,
+        "latency_per_step_ms": 500.0,
+        "reliability_success_rate_pct": 97.4
+      },
+      "community_mindshare": {
+        "github_stars": 77398,
+        "hf_likes": 0,
+        "paper_citations": 0,
+        "mindshare_score": 90.81
+      }
+    },
+    {
+      "rank": 40,
+      "agent_name": "OmniRoute",
+      "developer": "cheaper-inference",
+      "repository_url": "https://github.com/cheaper-inference/OmniRoute",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop",
+      "category": "DevOps & Infrastructure",
+      "is_new_this_week": false,
+      "overall_score": 84.8,
+      "performance_metrics": {
+        "tool_selection_quality_pct": 71.2,
+        "autonomous_iteration_avg_steps": 25.0,
+        "cost_efficiency_usd_per_task": 0.05,
+        "latency_per_step_ms": 500.0,
+        "reliability_success_rate_pct": 97.4
+      },
+      "community_mindshare": {
+        "github_stars": 81258,
+        "hf_likes": 0,
+        "paper_citations": 0,
+        "mindshare_score": 90.66
+      }
+    },
+    {
+      "rank": 41,
+      "agent_name": "ai-engineering-from-scratch",
+      "developer": "rohitg00",
+      "repository_url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
+      "category": "General AI Agent",
       "is_new_this_week": false,
       "overall_score": 84.8,
       "performance_metrics": {
@@ -1051,17 +936,40 @@
         "autonomous_iteration_avg_steps": 22.5,
         "cost_efficiency_usd_per_task": 0.05,
         "latency_per_step_ms": 500.0,
-        "reliability_success_rate_pct": 97.4
+        "reliability_success_rate_pct": 97.0
       },
       "community_mindshare": {
-        "github_stars": 67427,
+        "github_stars": 73996,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 89.39
+        "mindshare_score": 90.25
       }
     },
     {
-      "rank": 47,
+      "rank": 42,
+      "agent_name": "learn-claude-code",
+      "developer": "shareAI-lab",
+      "repository_url": "https://github.com/shareAI-lab/learn-claude-code",
+      "description": "Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1",
+      "category": "Coding & Software Engineering",
+      "is_new_this_week": false,
+      "overall_score": 84.8,
+      "performance_metrics": {
+        "tool_selection_quality_pct": 71.2,
+        "autonomous_iteration_avg_steps": 22.5,
+        "cost_efficiency_usd_per_task": 0.02,
+        "latency_per_step_ms": 500.0,
+        "reliability_success_rate_pct": 92.4
+      },
+      "community_mindshare": {
+        "github_stars": 79240,
+        "hf_likes": 0,
+        "paper_citations": 0,
+        "mindshare_score": 87.68
+      }
+    },
+    {
+      "rank": 43,
       "agent_name": "posthog",
       "developer": "PostHog",
       "repository_url": "https://github.com/PostHog/posthog",
@@ -1077,14 +985,14 @@
         "reliability_success_rate_pct": 100.0
       },
       "community_mindshare": {
-        "github_stars": 40344,
+        "github_stars": 40446,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 86.21
+        "mindshare_score": 86.04
       }
     },
     {
-      "rank": 48,
+      "rank": 44,
       "agent_name": "deepagents",
       "developer": "langchain-ai",
       "repository_url": "https://github.com/langchain-ai/deepagents",
@@ -1100,18 +1008,41 @@
         "reliability_success_rate_pct": 100.0
       },
       "community_mindshare": {
-        "github_stars": 30401,
+        "github_stars": 30598,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 85.54
+        "mindshare_score": 85.37
       }
     },
     {
-      "rank": 49,
-      "agent_name": "kestra",
-      "developer": "kestra-io",
-      "repository_url": "https://github.com/kestra-io/kestra",
-      "description": "Event Driven Orchestration & Scheduling Platform for Mission Critical Applications",
+      "rank": 45,
+      "agent_name": "semantic-kernel",
+      "developer": "microsoft",
+      "repository_url": "https://github.com/microsoft/semantic-kernel",
+      "description": "Integrate cutting-edge LLM technology quickly and easily into your apps",
+      "category": "Agent Framework",
+      "is_new_this_week": false,
+      "overall_score": 84.8,
+      "performance_metrics": {
+        "tool_selection_quality_pct": 61.2,
+        "autonomous_iteration_avg_steps": 22.5,
+        "cost_efficiency_usd_per_task": 0.05,
+        "latency_per_step_ms": 500.0,
+        "reliability_success_rate_pct": 100.0
+      },
+      "community_mindshare": {
+        "github_stars": 28696,
+        "hf_likes": 0,
+        "paper_citations": 0,
+        "mindshare_score": 85.12
+      }
+    },
+    {
+      "rank": 46,
+      "agent_name": "sim",
+      "developer": "simstudioai",
+      "repository_url": "https://github.com/simstudioai/sim",
+      "description": "Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.",
       "category": "Workflow Orchestration",
       "is_new_this_week": false,
       "overall_score": 84.8,
@@ -1123,14 +1054,37 @@
         "reliability_success_rate_pct": 100.0
       },
       "community_mindshare": {
-        "github_stars": 29853,
+        "github_stars": 29920,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 85.09
+        "mindshare_score": 85.1
       }
     },
     {
-      "rank": 50,
+      "rank": 47,
+      "agent_name": "kestra",
+      "developer": "kestra-io",
+      "repository_url": "https://github.com/kestra-io/kestra",
+      "description": "Orchestrate everything, everywhere. The open-source control plane for workflows across data, infrastructure, business processes and AI agents. Declarative YAML, event-driven, any language, Git-versioned, scalable to millions of executions.",
+      "category": "Workflow Orchestration",
+      "is_new_this_week": false,
+      "overall_score": 84.8,
+      "performance_metrics": {
+        "tool_selection_quality_pct": 61.2,
+        "autonomous_iteration_avg_steps": 22.5,
+        "cost_efficiency_usd_per_task": 0.05,
+        "latency_per_step_ms": 500.0,
+        "reliability_success_rate_pct": 100.0
+      },
+      "community_mindshare": {
+        "github_stars": 30004,
+        "hf_likes": 0,
+        "paper_citations": 0,
+        "mindshare_score": 84.92
+      }
+    },
+    {
+      "rank": 48,
       "agent_name": "context-mode",
       "developer": "mksglu",
       "repository_url": "https://github.com/mksglu/context-mode",
@@ -1146,37 +1100,14 @@
         "reliability_success_rate_pct": 94.2
       },
       "community_mindshare": {
-        "github_stars": 30884,
+        "github_stars": 32333,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 84.49
+        "mindshare_score": 84.42
       }
     },
     {
-      "rank": 51,
-      "agent_name": "cc-haha",
-      "developer": "NanmiCoder",
-      "repository_url": "https://github.com/NanmiCoder/cc-haha",
-      "description": "本地优先的跨平台 Claude Code / AI Agent 桌面工作台：多 Agent 协作、Git Worktree、代码 Diff、技能市场、多模型、Computer Use、桌面宠物；支持微信、飞书、钉钉及 H5 等远程访问。 | Local-first Claude Code / AI Agent desktop workspace: multi-agent teams, Git worktrees, diffs, skills marketplace, multi-model, Computer Use, task-aware desktop pets; remote via W",
-      "category": "Coding & Software Engineering",
-      "is_new_this_week": false,
-      "overall_score": 84.8,
-      "performance_metrics": {
-        "tool_selection_quality_pct": 71.2,
-        "autonomous_iteration_avg_steps": 22.5,
-        "cost_efficiency_usd_per_task": 0.02,
-        "latency_per_step_ms": 500.0,
-        "reliability_success_rate_pct": 94.2
-      },
-      "community_mindshare": {
-        "github_stars": 15071,
-        "hf_likes": 0,
-        "paper_citations": 0,
-        "mindshare_score": 84.24
-      }
-    },
-    {
-      "rank": 52,
+      "rank": 49,
       "agent_name": "pydantic-ai",
       "developer": "pydantic",
       "repository_url": "https://github.com/pydantic/pydantic-ai",
@@ -1192,65 +1123,42 @@
         "reliability_success_rate_pct": 95.0
       },
       "community_mindshare": {
-        "github_stars": 20725,
+        "github_stars": 20879,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 83.5
+        "mindshare_score": 83.37
       }
     },
     {
-      "rank": 53,
-      "agent_name": "iFixAi",
-      "developer": "ifixai-ai",
-      "repository_url": "https://github.com/ifixai-ai/iFixAi",
-      "description": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.",
+      "rank": 50,
+      "agent_name": "mem0",
+      "developer": "mem0ai",
+      "repository_url": "https://github.com/mem0ai/mem0",
+      "description": "The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.",
       "category": "DevOps & Infrastructure",
-      "is_new_this_week": false,
-      "overall_score": 84.8,
-      "performance_metrics": {
-        "tool_selection_quality_pct": 61.2,
-        "autonomous_iteration_avg_steps": 20.0,
-        "cost_efficiency_usd_per_task": 0.02,
-        "latency_per_step_ms": 500.0,
-        "reliability_success_rate_pct": 95.0
-      },
-      "community_mindshare": {
-        "github_stars": 29751,
-        "hf_likes": 0,
-        "paper_citations": 0,
-        "mindshare_score": 83.44
-      }
-    },
-    {
-      "rank": 54,
-      "agent_name": "cognee",
-      "developer": "topoteretes",
-      "repository_url": "https://github.com/topoteretes/cognee",
-      "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small models for free",
-      "category": "Agent Framework",
       "is_new_this_week": false,
       "overall_score": 84.7,
       "performance_metrics": {
-        "tool_selection_quality_pct": 71.2,
-        "autonomous_iteration_avg_steps": 25.0,
+        "tool_selection_quality_pct": 61.2,
+        "autonomous_iteration_avg_steps": 22.5,
         "cost_efficiency_usd_per_task": 0.05,
         "latency_per_step_ms": 500.0,
-        "reliability_success_rate_pct": 100.0
+        "reliability_success_rate_pct": 97.4
       },
       "community_mindshare": {
-        "github_stars": 32524,
+        "github_stars": 67832,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 85.37
+        "mindshare_score": 89.1
       }
     },
     {
-      "rank": 55,
-      "agent_name": "SkillOpt",
-      "developer": "microsoft",
-      "repository_url": "https://github.com/microsoft/SkillOpt",
-      "description": "SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through trajectory-driven edits, validation-gated updates, and deployable best_skill.md artifacts.",
-      "category": "Agent Framework",
+      "rank": 51,
+      "agent_name": "cc-haha",
+      "developer": "NanmiCoder",
+      "repository_url": "https://github.com/NanmiCoder/cc-haha",
+      "description": "本地优先的跨平台 Claude Code / AI Agent 桌面工作台：多 Agent 协作、Git Worktree、代码 Diff、技能市场、多模型、Computer Use、桌面宠物；支持微信、飞书、钉钉及 H5 等远程访问。 | Local-first Claude Code / AI Agent desktop workspace: multi-agent teams, Git worktrees, diffs, skills marketplace, multi-model, Computer Use, task-aware desktop pets; remote via W",
+      "category": "Coding & Software Engineering",
       "is_new_this_week": false,
       "overall_score": 84.7,
       "performance_metrics": {
@@ -1258,17 +1166,17 @@
         "autonomous_iteration_avg_steps": 22.5,
         "cost_efficiency_usd_per_task": 0.02,
         "latency_per_step_ms": 500.0,
-        "reliability_success_rate_pct": 95.0
+        "reliability_success_rate_pct": 94.2
       },
       "community_mindshare": {
-        "github_stars": 18547,
+        "github_stars": 15171,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 82.19
+        "mindshare_score": 84.04
       }
     },
     {
-      "rank": 56,
+      "rank": 52,
       "agent_name": "ruflo",
       "developer": "ruvnet",
       "repository_url": "https://github.com/ruvnet/ruflo",
@@ -1284,19 +1192,19 @@
         "reliability_success_rate_pct": 97.0
       },
       "community_mindshare": {
-        "github_stars": 76777,
+        "github_stars": 79363,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 90.2
+        "mindshare_score": 90.15
       }
     },
     {
-      "rank": 57,
-      "agent_name": "signoz",
-      "developer": "SigNoz",
-      "repository_url": "https://github.com/SigNoz/signoz",
-      "description": "SigNoz is an open-source, OpenTelemetry-native observability platform for your team and their AI agents. Get logs, metrics, and traces in one tool with features like APM, distributed tracing, log management, infra monitoring, etc. Combined with SigNoz MCP and a native AI teammate (in SigNoz Cloud) i",
-      "category": "DevOps & Infrastructure",
+      "rank": 53,
+      "agent_name": "cognee",
+      "developer": "topoteretes",
+      "repository_url": "https://github.com/topoteretes/cognee",
+      "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small models for free",
+      "category": "Agent Framework",
       "is_new_this_week": false,
       "overall_score": 84.6,
       "performance_metrics": {
@@ -1307,14 +1215,37 @@
         "reliability_success_rate_pct": 100.0
       },
       "community_mindshare": {
-        "github_stars": 32385,
+        "github_stars": 32764,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 84.84
+        "mindshare_score": 85.21
       }
     },
     {
-      "rank": 58,
+      "rank": 54,
+      "agent_name": "SkillOpt",
+      "developer": "microsoft",
+      "repository_url": "https://github.com/microsoft/SkillOpt",
+      "description": "SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through trajectory-driven edits, validation-gated updates, and deployable best_skill.md artifacts.",
+      "category": "Agent Framework",
+      "is_new_this_week": false,
+      "overall_score": 84.6,
+      "performance_metrics": {
+        "tool_selection_quality_pct": 71.2,
+        "autonomous_iteration_avg_steps": 22.5,
+        "cost_efficiency_usd_per_task": 0.02,
+        "latency_per_step_ms": 500.0,
+        "reliability_success_rate_pct": 95.0
+      },
+      "community_mindshare": {
+        "github_stars": 18683,
+        "hf_likes": 0,
+        "paper_citations": 0,
+        "mindshare_score": 82.04
+      }
+    },
+    {
+      "rank": 55,
       "agent_name": "headroom",
       "developer": "headroomlabs-ai",
       "repository_url": "https://github.com/headroomlabs-ai/headroom",
@@ -1330,37 +1261,14 @@
         "reliability_success_rate_pct": 97.4
       },
       "community_mindshare": {
-        "github_stars": 75948,
+        "github_stars": 77853,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 89.3
+        "mindshare_score": 89.22
       }
     },
     {
-      "rank": 59,
-      "agent_name": "anything-llm",
-      "developer": "Mintplex-Labs",
-      "repository_url": "https://github.com/Mintplex-Labs/anything-llm",
-      "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience ",
-      "category": "Chatbot & Conversational",
-      "is_new_this_week": false,
-      "overall_score": 84.5,
-      "performance_metrics": {
-        "tool_selection_quality_pct": 71.2,
-        "autonomous_iteration_avg_steps": 25.0,
-        "cost_efficiency_usd_per_task": 0.05,
-        "latency_per_step_ms": 500.0,
-        "reliability_success_rate_pct": 97.4
-      },
-      "community_mindshare": {
-        "github_stars": 67302,
-        "hf_likes": 0,
-        "paper_citations": 0,
-        "mindshare_score": 89.18
-      }
-    },
-    {
-      "rank": 60,
+      "rank": 56,
       "agent_name": "hyperframes",
       "developer": "heygen-com",
       "repository_url": "https://github.com/heygen-com/hyperframes",
@@ -1376,42 +1284,42 @@
         "reliability_success_rate_pct": 97.4
       },
       "community_mindshare": {
-        "github_stars": 67097,
+        "github_stars": 72510,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 89.01
+        "mindshare_score": 89.21
       }
     },
     {
-      "rank": 61,
-      "agent_name": "Front-End-Checklist",
-      "developer": "thedaviddias",
-      "repository_url": "https://github.com/thedaviddias/Front-End-Checklist",
-      "description": "🗂 The essential checklist for modern web development, for humans and AI agents",
-      "category": "Coding & Software Engineering",
+      "rank": 57,
+      "agent_name": "anything-llm",
+      "developer": "Mintplex-Labs",
+      "repository_url": "https://github.com/Mintplex-Labs/anything-llm",
+      "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience ",
+      "category": "Chatbot & Conversational",
       "is_new_this_week": false,
       "overall_score": 84.5,
       "performance_metrics": {
-        "tool_selection_quality_pct": 61.2,
-        "autonomous_iteration_avg_steps": 20.0,
-        "cost_efficiency_usd_per_task": 0.02,
+        "tool_selection_quality_pct": 71.2,
+        "autonomous_iteration_avg_steps": 25.0,
+        "cost_efficiency_usd_per_task": 0.05,
         "latency_per_step_ms": 500.0,
-        "reliability_success_rate_pct": 91.4
+        "reliability_success_rate_pct": 97.4
       },
       "community_mindshare": {
-        "github_stars": 74508,
+        "github_stars": 67571,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 88.24
+        "mindshare_score": 89.21
       }
     },
     {
-      "rank": 62,
-      "agent_name": "gpt-researcher",
-      "developer": "assafelovic",
-      "repository_url": "https://github.com/assafelovic/gpt-researcher",
-      "description": "An autonomous agent that conducts deep research on any data using any LLM providers",
-      "category": "Research & Reasoning",
+      "rank": 58,
+      "agent_name": "signoz",
+      "developer": "SigNoz",
+      "repository_url": "https://github.com/SigNoz/signoz",
+      "description": "SigNoz is an open-source, OpenTelemetry-native observability platform for your team and their AI agents. Get logs, metrics, and traces in one tool with features like APM, distributed tracing, log management, infra monitoring, etc. Combined with SigNoz MCP and a native AI teammate (in SigNoz Cloud) i",
+      "category": "DevOps & Infrastructure",
       "is_new_this_week": false,
       "overall_score": 84.5,
       "performance_metrics": {
@@ -1422,14 +1330,14 @@
         "reliability_success_rate_pct": 100.0
       },
       "community_mindshare": {
-        "github_stars": 30164,
+        "github_stars": 32455,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 84.63
+        "mindshare_score": 84.67
       }
     },
     {
-      "rank": 63,
+      "rank": 59,
       "agent_name": "text-to-cad",
       "developer": "earthtojake",
       "repository_url": "https://github.com/earthtojake/text-to-cad",
@@ -1445,83 +1353,14 @@
         "reliability_success_rate_pct": 94.2
       },
       "community_mindshare": {
-        "github_stars": 21556,
+        "github_stars": 23219,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 83.06
+        "mindshare_score": 83.24
       }
     },
     {
-      "rank": 64,
-      "agent_name": "agent-skills",
-      "developer": "addyosmani",
-      "repository_url": "https://github.com/addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "category": "Coding & Software Engineering",
-      "is_new_this_week": false,
-      "overall_score": 84.4,
-      "performance_metrics": {
-        "tool_selection_quality_pct": 51.2,
-        "autonomous_iteration_avg_steps": 17.5,
-        "cost_efficiency_usd_per_task": 0.02,
-        "latency_per_step_ms": 500.0,
-        "reliability_success_rate_pct": 91.4
-      },
-      "community_mindshare": {
-        "github_stars": 108371,
-        "hf_likes": 0,
-        "paper_citations": 0,
-        "mindshare_score": 91.28
-      }
-    },
-    {
-      "rank": 65,
-      "agent_name": "LibreChat",
-      "developer": "LibreChat-AI",
-      "repository_url": "https://github.com/LibreChat-AI/LibreChat",
-      "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User A",
-      "category": "Chatbot & Conversational",
-      "is_new_this_week": false,
-      "overall_score": 84.4,
-      "performance_metrics": {
-        "tool_selection_quality_pct": 71.2,
-        "autonomous_iteration_avg_steps": 25.0,
-        "cost_efficiency_usd_per_task": 0.05,
-        "latency_per_step_ms": 500.0,
-        "reliability_success_rate_pct": 97.4
-      },
-      "community_mindshare": {
-        "github_stars": 45961,
-        "hf_likes": 0,
-        "paper_citations": 0,
-        "mindshare_score": 88.43
-      }
-    },
-    {
-      "rank": 66,
-      "agent_name": "netbird",
-      "developer": "netbirdio",
-      "repository_url": "https://github.com/netbirdio/netbird",
-      "description": "NetBird securely connects people, machines and AI agents across any network with one identity-based Zero Trust platform. Powered by peer-to-peer WireGuard®",
-      "category": "DevOps & Infrastructure",
-      "is_new_this_week": false,
-      "overall_score": 84.4,
-      "performance_metrics": {
-        "tool_selection_quality_pct": 71.2,
-        "autonomous_iteration_avg_steps": 25.0,
-        "cost_efficiency_usd_per_task": 0.05,
-        "latency_per_step_ms": 500.0,
-        "reliability_success_rate_pct": 100.0
-      },
-      "community_mindshare": {
-        "github_stars": 30063,
-        "hf_likes": 0,
-        "paper_citations": 0,
-        "mindshare_score": 83.93
-      }
-    },
-    {
-      "rank": 67,
+      "rank": 60,
       "agent_name": "paperclip",
       "developer": "paperclipai",
       "repository_url": "https://github.com/paperclipai/paperclip",
@@ -1537,14 +1376,14 @@
         "reliability_success_rate_pct": 95.0
       },
       "community_mindshare": {
-        "github_stars": 104360,
+        "github_stars": 107432,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 92.46
+        "mindshare_score": 92.37
       }
     },
     {
-      "rank": 68,
+      "rank": 61,
       "agent_name": "gemini-cli",
       "developer": "google-gemini",
       "repository_url": "https://github.com/google-gemini/gemini-cli",
@@ -1560,37 +1399,152 @@
         "reliability_success_rate_pct": 95.0
       },
       "community_mindshare": {
-        "github_stars": 107448,
+        "github_stars": 108396,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 92.27
+        "mindshare_score": 92.08
       }
     },
     {
-      "rank": 69,
-      "agent_name": "goose",
-      "developer": "aaif-goose",
-      "repository_url": "https://github.com/aaif-goose/goose",
-      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
-      "category": "Coding & Software Engineering",
+      "rank": 62,
+      "agent_name": "oh-my-openagent",
+      "developer": "code-yeongyu",
+      "repository_url": "https://github.com/code-yeongyu/oh-my-openagent",
+      "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+      "category": "Workflow Orchestration",
       "is_new_this_week": false,
-      "overall_score": 84.2,
+      "overall_score": 84.3,
       "performance_metrics": {
-        "tool_selection_quality_pct": 59.2,
-        "autonomous_iteration_avg_steps": 22.5,
+        "tool_selection_quality_pct": 71.2,
+        "autonomous_iteration_avg_steps": 25.0,
+        "cost_efficiency_usd_per_task": 0.05,
+        "latency_per_step_ms": 500.0,
+        "reliability_success_rate_pct": 97.0
+      },
+      "community_mindshare": {
+        "github_stars": 70341,
+        "hf_likes": 0,
+        "paper_citations": 0,
+        "mindshare_score": 88.89
+      }
+    },
+    {
+      "rank": 63,
+      "agent_name": "LibreChat",
+      "developer": "LibreChat-AI",
+      "repository_url": "https://github.com/LibreChat-AI/LibreChat",
+      "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User A",
+      "category": "Chatbot & Conversational",
+      "is_new_this_week": false,
+      "overall_score": 84.3,
+      "performance_metrics": {
+        "tool_selection_quality_pct": 71.2,
+        "autonomous_iteration_avg_steps": 25.0,
         "cost_efficiency_usd_per_task": 0.05,
         "latency_per_step_ms": 500.0,
         "reliability_success_rate_pct": 97.4
       },
       "community_mindshare": {
-        "github_stars": 55428,
+        "github_stars": 46336,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 88.43
+        "mindshare_score": 88.25
       }
     },
     {
-      "rank": 70,
+      "rank": 64,
+      "agent_name": "Front-End-Checklist",
+      "developer": "thedaviddias",
+      "repository_url": "https://github.com/thedaviddias/Front-End-Checklist",
+      "description": "🗂 The essential checklist for modern web development, for humans and AI agents",
+      "category": "Coding & Software Engineering",
+      "is_new_this_week": false,
+      "overall_score": 84.3,
+      "performance_metrics": {
+        "tool_selection_quality_pct": 61.2,
+        "autonomous_iteration_avg_steps": 20.0,
+        "cost_efficiency_usd_per_task": 0.02,
+        "latency_per_step_ms": 500.0,
+        "reliability_success_rate_pct": 91.4
+      },
+      "community_mindshare": {
+        "github_stars": 74568,
+        "hf_likes": 0,
+        "paper_citations": 0,
+        "mindshare_score": 87.25
+      }
+    },
+    {
+      "rank": 65,
+      "agent_name": "netbird",
+      "developer": "netbirdio",
+      "repository_url": "https://github.com/netbirdio/netbird",
+      "description": "NetBird securely connects people, machines and AI agents across any network with one identity-based Zero Trust platform. Powered by peer-to-peer WireGuard®",
+      "category": "DevOps & Infrastructure",
+      "is_new_this_week": false,
+      "overall_score": 84.3,
+      "performance_metrics": {
+        "tool_selection_quality_pct": 71.2,
+        "autonomous_iteration_avg_steps": 25.0,
+        "cost_efficiency_usd_per_task": 0.05,
+        "latency_per_step_ms": 500.0,
+        "reliability_success_rate_pct": 100.0
+      },
+      "community_mindshare": {
+        "github_stars": 30228,
+        "hf_likes": 0,
+        "paper_citations": 0,
+        "mindshare_score": 83.79
+      }
+    },
+    {
+      "rank": 66,
+      "agent_name": "gpt-researcher",
+      "developer": "assafelovic",
+      "repository_url": "https://github.com/assafelovic/gpt-researcher",
+      "description": "An autonomous agent that conducts deep research on any data using any LLM providers",
+      "category": "Research & Reasoning",
+      "is_new_this_week": false,
+      "overall_score": 84.3,
+      "performance_metrics": {
+        "tool_selection_quality_pct": 71.2,
+        "autonomous_iteration_avg_steps": 25.0,
+        "cost_efficiency_usd_per_task": 0.05,
+        "latency_per_step_ms": 500.0,
+        "reliability_success_rate_pct": 100.0
+      },
+      "community_mindshare": {
+        "github_stars": 30295,
+        "hf_likes": 0,
+        "paper_citations": 0,
+        "mindshare_score": 83.59
+      }
+    },
+    {
+      "rank": 67,
+      "agent_name": "agent-skills",
+      "developer": "addyosmani",
+      "repository_url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "category": "Coding & Software Engineering",
+      "is_new_this_week": false,
+      "overall_score": 84.2,
+      "performance_metrics": {
+        "tool_selection_quality_pct": 51.2,
+        "autonomous_iteration_avg_steps": 17.5,
+        "cost_efficiency_usd_per_task": 0.02,
+        "latency_per_step_ms": 500.0,
+        "reliability_success_rate_pct": 91.4
+      },
+      "community_mindshare": {
+        "github_stars": 110608,
+        "hf_likes": 0,
+        "paper_citations": 0,
+        "mindshare_score": 90.39
+      }
+    },
+    {
+      "rank": 68,
       "agent_name": "Vibe-Trading",
       "developer": "HKUDS",
       "repository_url": "https://github.com/HKUDS/Vibe-Trading",
@@ -1606,37 +1560,14 @@
         "reliability_success_rate_pct": 97.4
       },
       "community_mindshare": {
-        "github_stars": 35873,
+        "github_stars": 36711,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 86.68
+        "mindshare_score": 86.58
       }
     },
     {
-      "rank": 71,
-      "agent_name": "ollama",
-      "developer": "ollama",
-      "repository_url": "https://github.com/ollama/ollama",
-      "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
-      "category": "DevOps & Infrastructure",
-      "is_new_this_week": false,
-      "overall_score": 84.1,
-      "performance_metrics": {
-        "tool_selection_quality_pct": 61.2,
-        "autonomous_iteration_avg_steps": 22.5,
-        "cost_efficiency_usd_per_task": 0.05,
-        "latency_per_step_ms": 500.0,
-        "reliability_success_rate_pct": 92.4
-      },
-      "community_mindshare": {
-        "github_stars": 183794,
-        "hf_likes": 0,
-        "paper_citations": 0,
-        "mindshare_score": 94.6
-      }
-    },
-    {
-      "rank": 72,
+      "rank": 69,
       "agent_name": "daily_stock_analysis",
       "developer": "ZhuLinsen",
       "repository_url": "https://github.com/ZhuLinsen/daily_stock_analysis",
@@ -1652,14 +1583,37 @@
         "reliability_success_rate_pct": 94.2
       },
       "community_mindshare": {
-        "github_stars": 66726,
+        "github_stars": 67076,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 92.78
+        "mindshare_score": 92.65
       }
     },
     {
-      "rank": 73,
+      "rank": 70,
+      "agent_name": "goose",
+      "developer": "aaif-goose",
+      "repository_url": "https://github.com/aaif-goose/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "category": "Coding & Software Engineering",
+      "is_new_this_week": false,
+      "overall_score": 84.1,
+      "performance_metrics": {
+        "tool_selection_quality_pct": 59.2,
+        "autonomous_iteration_avg_steps": 22.5,
+        "cost_efficiency_usd_per_task": 0.05,
+        "latency_per_step_ms": 500.0,
+        "reliability_success_rate_pct": 97.4
+      },
+      "community_mindshare": {
+        "github_stars": 55730,
+        "hf_likes": 0,
+        "paper_citations": 0,
+        "mindshare_score": 88.23
+      }
+    },
+    {
+      "rank": 71,
       "agent_name": "tidb",
       "developer": "pingcap",
       "repository_url": "https://github.com/pingcap/tidb",
@@ -1675,37 +1629,37 @@
         "reliability_success_rate_pct": 97.4
       },
       "community_mindshare": {
-        "github_stars": 40654,
+        "github_stars": 40678,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 87.26
+        "mindshare_score": 87.05
       }
     },
     {
-      "rank": 74,
-      "agent_name": "composio",
-      "developer": "ComposioHQ",
-      "repository_url": "https://github.com/ComposioHQ/composio",
-      "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.",
-      "category": "Agent Framework",
+      "rank": 72,
+      "agent_name": "ollama",
+      "developer": "ollama",
+      "repository_url": "https://github.com/ollama/ollama",
+      "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "category": "DevOps & Infrastructure",
       "is_new_this_week": false,
-      "overall_score": 84.1,
+      "overall_score": 84.0,
       "performance_metrics": {
         "tool_selection_quality_pct": 61.2,
         "autonomous_iteration_avg_steps": 22.5,
         "cost_efficiency_usd_per_task": 0.05,
         "latency_per_step_ms": 500.0,
-        "reliability_success_rate_pct": 97.4
+        "reliability_success_rate_pct": 92.4
       },
       "community_mindshare": {
-        "github_stars": 30635,
+        "github_stars": 184818,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 85.79
+        "mindshare_score": 94.4
       }
     },
     {
-      "rank": 75,
+      "rank": 73,
       "agent_name": "langflow",
       "developer": "langflow-ai",
       "repository_url": "https://github.com/langflow-ai/langflow",
@@ -1721,37 +1675,14 @@
         "reliability_success_rate_pct": 95.0
       },
       "community_mindshare": {
-        "github_stars": 155827,
+        "github_stars": 156030,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 92.97
+        "mindshare_score": 92.75
       }
     },
     {
-      "rank": 76,
-      "agent_name": "openhuman",
-      "developer": "tinyhumansai",
-      "repository_url": "https://github.com/tinyhumansai/openhuman",
-      "description": "The fastest, cheapest, most efficient open-source agent harness. Run more than 500 agents on a $10 VPS.",
-      "category": "Agent Framework",
-      "is_new_this_week": false,
-      "overall_score": 84.0,
-      "performance_metrics": {
-        "tool_selection_quality_pct": 71.2,
-        "autonomous_iteration_avg_steps": 25.0,
-        "cost_efficiency_usd_per_task": 0.05,
-        "latency_per_step_ms": 500.0,
-        "reliability_success_rate_pct": 97.4
-      },
-      "community_mindshare": {
-        "github_stars": 42157,
-        "hf_likes": 0,
-        "paper_citations": 0,
-        "mindshare_score": 86.66
-      }
-    },
-    {
-      "rank": 77,
+      "rank": 74,
       "agent_name": "awesome-copilot",
       "developer": "github",
       "repository_url": "https://github.com/github/awesome-copilot",
@@ -1767,18 +1698,41 @@
         "reliability_success_rate_pct": 97.4
       },
       "community_mindshare": {
-        "github_stars": 40174,
+        "github_stars": 40419,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 86.65
+        "mindshare_score": 86.71
       }
     },
     {
-      "rank": 78,
-      "agent_name": "openai-agents-python",
-      "developer": "openai",
-      "repository_url": "https://github.com/openai/openai-agents-python",
-      "description": "A lightweight, powerful framework for multi-agent workflows",
+      "rank": 75,
+      "agent_name": "openhuman",
+      "developer": "tinyhumansai",
+      "repository_url": "https://github.com/tinyhumansai/openhuman",
+      "description": "The fastest, cheapest, most efficient open-source agent harness. Run more than 500 agents on a $10 VPS.",
+      "category": "Agent Framework",
+      "is_new_this_week": false,
+      "overall_score": 84.0,
+      "performance_metrics": {
+        "tool_selection_quality_pct": 71.2,
+        "autonomous_iteration_avg_steps": 25.0,
+        "cost_efficiency_usd_per_task": 0.05,
+        "latency_per_step_ms": 500.0,
+        "reliability_success_rate_pct": 97.4
+      },
+      "community_mindshare": {
+        "github_stars": 42345,
+        "hf_likes": 0,
+        "paper_citations": 0,
+        "mindshare_score": 86.49
+      }
+    },
+    {
+      "rank": 76,
+      "agent_name": "composio",
+      "developer": "ComposioHQ",
+      "repository_url": "https://github.com/ComposioHQ/composio",
+      "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.",
       "category": "Agent Framework",
       "is_new_this_week": false,
       "overall_score": 84.0,
@@ -1790,14 +1744,14 @@
         "reliability_success_rate_pct": 97.4
       },
       "community_mindshare": {
-        "github_stars": 30133,
+        "github_stars": 30755,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 85.68
+        "mindshare_score": 85.61
       }
     },
     {
-      "rank": 79,
+      "rank": 77,
       "agent_name": "marketingskills",
       "developer": "coreyhaines31",
       "repository_url": "https://github.com/coreyhaines31/marketingskills",
@@ -1813,18 +1767,18 @@
         "reliability_success_rate_pct": 91.4
       },
       "community_mindshare": {
-        "github_stars": 55440,
+        "github_stars": 56578,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 88.52
+        "mindshare_score": 88.41
       }
     },
     {
-      "rank": 80,
+      "rank": 78,
       "agent_name": "Codewhale",
       "developer": "codewhale-hq",
       "repository_url": "https://github.com/codewhale-hq/Codewhale",
-      "description": "Open-source Rust agent engine and terminal client for Codewhale, with provider choice, tools, approvals and receipts.",
+      "description": "Open-source agent for the terminal written in Rust. Use any provider or model. Issues & PRs always welcome",
       "category": "Coding & Software Engineering",
       "is_new_this_week": false,
       "overall_score": 83.9,
@@ -1836,14 +1790,14 @@
         "reliability_success_rate_pct": 97.4
       },
       "community_mindshare": {
-        "github_stars": 41101,
+        "github_stars": 41118,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 86.3
+        "mindshare_score": 86.1
       }
     },
     {
-      "rank": 81,
+      "rank": 79,
       "agent_name": "zeroclaw",
       "developer": "zeroclaw-labs",
       "repository_url": "https://github.com/zeroclaw-labs/zeroclaw",
@@ -1859,37 +1813,37 @@
         "reliability_success_rate_pct": 97.4
       },
       "community_mindshare": {
-        "github_stars": 32997,
+        "github_stars": 33041,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 86.1
+        "mindshare_score": 85.9
       }
     },
     {
-      "rank": 82,
-      "agent_name": "FinceptTerminal",
-      "developer": "Fincept-Corporation",
-      "repository_url": "https://github.com/Fincept-Corporation/FinceptTerminal",
-      "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
-      "category": "Data & Analytics",
+      "rank": 80,
+      "agent_name": "openai-agents-python",
+      "developer": "openai",
+      "repository_url": "https://github.com/openai/openai-agents-python",
+      "description": "A lightweight, powerful framework for multi-agent workflows",
+      "category": "Agent Framework",
       "is_new_this_week": false,
       "overall_score": 83.9,
       "performance_metrics": {
-        "tool_selection_quality_pct": 51.2,
-        "autonomous_iteration_avg_steps": 20.0,
+        "tool_selection_quality_pct": 61.2,
+        "autonomous_iteration_avg_steps": 22.5,
         "cost_efficiency_usd_per_task": 0.05,
         "latency_per_step_ms": 500.0,
         "reliability_success_rate_pct": 97.4
       },
       "community_mindshare": {
-        "github_stars": 32733,
+        "github_stars": 30293,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 85.29
+        "mindshare_score": 85.23
       }
     },
     {
-      "rank": 83,
+      "rank": 81,
       "agent_name": "cs249r_book",
       "developer": "harvard-edge",
       "repository_url": "https://github.com/harvard-edge/cs249r_book",
@@ -1905,14 +1859,14 @@
         "reliability_success_rate_pct": 97.4
       },
       "community_mindshare": {
-        "github_stars": 29078,
+        "github_stars": 29656,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 85.1
+        "mindshare_score": 84.98
       }
     },
     {
-      "rank": 84,
+      "rank": 82,
       "agent_name": "planning-with-files",
       "developer": "OthmanAdi",
       "repository_url": "https://github.com/OthmanAdi/planning-with-files",
@@ -1928,19 +1882,19 @@
         "reliability_success_rate_pct": 94.2
       },
       "community_mindshare": {
-        "github_stars": 27526,
+        "github_stars": 27654,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 83.96
+        "mindshare_score": 83.8
       }
     },
     {
-      "rank": 85,
+      "rank": 83,
       "agent_name": "prime-agent",
       "developer": "PrimeIntellect-ai",
       "repository_url": "https://github.com/PrimeIntellect-ai/prime-agent",
       "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
-      "category": "Autonomous Agent",
+      "category": "Coding & Software Engineering",
       "is_new_this_week": false,
       "overall_score": 83.9,
       "performance_metrics": {
@@ -1951,14 +1905,14 @@
         "reliability_success_rate_pct": 92.4
       },
       "community_mindshare": {
-        "github_stars": 22157,
+        "github_stars": 22342,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 83.41
+        "mindshare_score": 83.27
       }
     },
     {
-      "rank": 86,
+      "rank": 84,
       "agent_name": "firecrawl",
       "developer": "firecrawl",
       "repository_url": "https://github.com/firecrawl/firecrawl",
@@ -1974,14 +1928,14 @@
         "reliability_success_rate_pct": 92.4
       },
       "community_mindshare": {
-        "github_stars": 192901,
+        "github_stars": 195440,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 93.73
+        "mindshare_score": 93.58
       }
     },
     {
-      "rank": 87,
+      "rank": 85,
       "agent_name": "claude-mem",
       "developer": "thedotmack",
       "repository_url": "https://github.com/thedotmack/claude-mem",
@@ -1997,37 +1951,14 @@
         "reliability_success_rate_pct": 94.2
       },
       "community_mindshare": {
-        "github_stars": 101692,
+        "github_stars": 103224,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 91.19
+        "mindshare_score": 91.06
       }
     },
     {
-      "rank": 88,
-      "agent_name": "adk-python",
-      "developer": "google",
-      "repository_url": "https://github.com/google/adk-python",
-      "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
-      "category": "Agent Framework",
-      "is_new_this_week": false,
-      "overall_score": 83.8,
-      "performance_metrics": {
-        "tool_selection_quality_pct": 61.2,
-        "autonomous_iteration_avg_steps": 22.5,
-        "cost_efficiency_usd_per_task": 0.05,
-        "latency_per_step_ms": 500.0,
-        "reliability_success_rate_pct": 97.4
-      },
-      "community_mindshare": {
-        "github_stars": 21908,
-        "hf_likes": 0,
-        "paper_citations": 0,
-        "mindshare_score": 84.37
-      }
-    },
-    {
-      "rank": 89,
+      "rank": 86,
       "agent_name": "oh-my-pi",
       "developer": "can1357",
       "repository_url": "https://github.com/can1357/oh-my-pi",
@@ -2043,60 +1974,83 @@
         "reliability_success_rate_pct": 97.0
       },
       "community_mindshare": {
-        "github_stars": 35905,
+        "github_stars": 36641,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 85.99
+        "mindshare_score": 85.93
+      }
+    },
+    {
+      "rank": 87,
+      "agent_name": "FinceptTerminal",
+      "developer": "Fincept-Corporation",
+      "repository_url": "https://github.com/Fincept-Corporation/FinceptTerminal",
+      "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
+      "category": "Data & Analytics",
+      "is_new_this_week": false,
+      "overall_score": 83.7,
+      "performance_metrics": {
+        "tool_selection_quality_pct": 51.2,
+        "autonomous_iteration_avg_steps": 20.0,
+        "cost_efficiency_usd_per_task": 0.05,
+        "latency_per_step_ms": 500.0,
+        "reliability_success_rate_pct": 97.4
+      },
+      "community_mindshare": {
+        "github_stars": 33127,
+        "hf_likes": 0,
+        "paper_citations": 0,
+        "mindshare_score": 84.37
+      }
+    },
+    {
+      "rank": 88,
+      "agent_name": "CodexPlusPlus",
+      "developer": "BigPizzaV3",
+      "repository_url": "https://github.com/BigPizzaV3/CodexPlusPlus",
+      "description": "An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex和其他 AI Agent变得更好用更舒服",
+      "category": "General AI Agent",
+      "is_new_this_week": false,
+      "overall_score": 83.7,
+      "performance_metrics": {
+        "tool_selection_quality_pct": 61.2,
+        "autonomous_iteration_avg_steps": 20.0,
+        "cost_efficiency_usd_per_task": 0.02,
+        "latency_per_step_ms": 500.0,
+        "reliability_success_rate_pct": 91.4
+      },
+      "community_mindshare": {
+        "github_stars": 32596,
+        "hf_likes": 0,
+        "paper_citations": 0,
+        "mindshare_score": 84.35
+      }
+    },
+    {
+      "rank": 89,
+      "agent_name": "adk-python",
+      "developer": "google",
+      "repository_url": "https://github.com/google/adk-python",
+      "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
+      "category": "Agent Framework",
+      "is_new_this_week": false,
+      "overall_score": 83.7,
+      "performance_metrics": {
+        "tool_selection_quality_pct": 61.2,
+        "autonomous_iteration_avg_steps": 22.5,
+        "cost_efficiency_usd_per_task": 0.05,
+        "latency_per_step_ms": 500.0,
+        "reliability_success_rate_pct": 97.4
+      },
+      "community_mindshare": {
+        "github_stars": 22009,
+        "hf_likes": 0,
+        "paper_citations": 0,
+        "mindshare_score": 84.16
       }
     },
     {
       "rank": 90,
-      "agent_name": "UI-TARS-desktop",
-      "developer": "bytedance",
-      "repository_url": "https://github.com/bytedance/UI-TARS-desktop",
-      "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
-      "category": "Browser & Computer Use",
-      "is_new_this_week": false,
-      "overall_score": 83.7,
-      "performance_metrics": {
-        "tool_selection_quality_pct": 71.2,
-        "autonomous_iteration_avg_steps": 25.0,
-        "cost_efficiency_usd_per_task": 0.05,
-        "latency_per_step_ms": 500.0,
-        "reliability_success_rate_pct": 97.4
-      },
-      "community_mindshare": {
-        "github_stars": 39324,
-        "hf_likes": 0,
-        "paper_citations": 0,
-        "mindshare_score": 85.23
-      }
-    },
-    {
-      "rank": 91,
-      "agent_name": "activepieces",
-      "developer": "activepieces",
-      "repository_url": "https://github.com/activepieces/activepieces",
-      "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
-      "category": "Workflow Orchestration",
-      "is_new_this_week": false,
-      "overall_score": 83.7,
-      "performance_metrics": {
-        "tool_selection_quality_pct": 71.2,
-        "autonomous_iteration_avg_steps": 25.0,
-        "cost_efficiency_usd_per_task": 0.05,
-        "latency_per_step_ms": 500.0,
-        "reliability_success_rate_pct": 97.4
-      },
-      "community_mindshare": {
-        "github_stars": 25106,
-        "hf_likes": 0,
-        "paper_citations": 0,
-        "mindshare_score": 84.88
-      }
-    },
-    {
-      "rank": 92,
       "agent_name": "qlib",
       "developer": "microsoft",
       "repository_url": "https://github.com/microsoft/qlib",
@@ -2112,106 +2066,37 @@
         "reliability_success_rate_pct": 95.0
       },
       "community_mindshare": {
-        "github_stars": 49501,
+        "github_stars": 49717,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 87.91
+        "mindshare_score": 87.72
       }
     },
     {
-      "rank": 93,
-      "agent_name": "eliza",
-      "developer": "elizaOS",
-      "repository_url": "https://github.com/elizaOS/eliza",
-      "description": "Open source agentic operating system",
-      "category": "Agent Framework",
-      "is_new_this_week": false,
-      "overall_score": 83.6,
-      "performance_metrics": {
-        "tool_selection_quality_pct": 71.2,
-        "autonomous_iteration_avg_steps": 25.0,
-        "cost_efficiency_usd_per_task": 0.05,
-        "latency_per_step_ms": 500.0,
-        "reliability_success_rate_pct": 97.4
-      },
-      "community_mindshare": {
-        "github_stars": 19623,
-        "hf_likes": 0,
-        "paper_citations": 0,
-        "mindshare_score": 84.5
-      }
-    },
-    {
-      "rank": 94,
-      "agent_name": "infisical",
-      "developer": "Infisical",
-      "repository_url": "https://github.com/Infisical/infisical",
-      "description": "Infisical is the open-source platform for securing secrets, certificates, access, and AI Agents.",
-      "category": "DevOps & Infrastructure",
-      "is_new_this_week": false,
-      "overall_score": 83.6,
-      "performance_metrics": {
-        "tool_selection_quality_pct": 71.2,
-        "autonomous_iteration_avg_steps": 25.0,
-        "cost_efficiency_usd_per_task": 0.05,
-        "latency_per_step_ms": 500.0,
-        "reliability_success_rate_pct": 97.4
-      },
-      "community_mindshare": {
-        "github_stars": 29860,
-        "hf_likes": 0,
-        "paper_citations": 0,
-        "mindshare_score": 84.42
-      }
-    },
-    {
-      "rank": 95,
-      "agent_name": "conductor",
-      "developer": "conductor-oss",
-      "repository_url": "https://github.com/conductor-oss/conductor",
-      "description": "Conductor is an event driven agentic workflow engine providing durable and highly resilient execution engine for applications and AI Agents",
+      "rank": 91,
+      "agent_name": "activepieces",
+      "developer": "activepieces",
+      "repository_url": "https://github.com/activepieces/activepieces",
+      "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
       "category": "Workflow Orchestration",
       "is_new_this_week": false,
       "overall_score": 83.6,
       "performance_metrics": {
-        "tool_selection_quality_pct": 61.2,
-        "autonomous_iteration_avg_steps": 22.5,
+        "tool_selection_quality_pct": 71.2,
+        "autonomous_iteration_avg_steps": 25.0,
         "cost_efficiency_usd_per_task": 0.05,
         "latency_per_step_ms": 500.0,
         "reliability_success_rate_pct": 97.4
       },
       "community_mindshare": {
-        "github_stars": 32335,
+        "github_stars": 25229,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 83.25
+        "mindshare_score": 84.71
       }
     },
     {
-      "rank": 96,
-      "agent_name": "img2threejs",
-      "developer": "img2threejs",
-      "repository_url": "https://github.com/img2threejs/img2threejs",
-      "description": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
-      "category": "Coding & Software Engineering",
-      "is_new_this_week": false,
-      "overall_score": 83.6,
-      "performance_metrics": {
-        "tool_selection_quality_pct": 61.2,
-        "autonomous_iteration_avg_steps": 20.0,
-        "cost_efficiency_usd_per_task": 0.02,
-        "latency_per_step_ms": 500.0,
-        "reliability_success_rate_pct": 92.4
-      },
-      "community_mindshare": {
-        "github_stars": 18406,
-        "hf_likes": 0,
-        "paper_citations": 0,
-        "mindshare_score": 82.01
-      }
-    },
-    {
-      "rank": 97,
+      "rank": 92,
       "agent_name": "agency-agents",
       "developer": "msitarzewski",
       "repository_url": "https://github.com/msitarzewski/agency-agents",
@@ -2227,14 +2112,14 @@
         "reliability_success_rate_pct": 97.0
       },
       "community_mindshare": {
-        "github_stars": 161377,
+        "github_stars": 164097,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 94.3
+        "mindshare_score": 94.48
       }
     },
     {
-      "rank": 98,
+      "rank": 93,
       "agent_name": "open-design",
       "developer": "nexu-io",
       "repository_url": "https://github.com/nexu-io/open-design",
@@ -2250,19 +2135,19 @@
         "reliability_success_rate_pct": 92.4
       },
       "community_mindshare": {
-        "github_stars": 102330,
+        "github_stars": 104037,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 91.69
+        "mindshare_score": 91.55
       }
     },
     {
-      "rank": 99,
+      "rank": 94,
       "agent_name": "CowAgent",
       "developer": "zhayujie",
       "repository_url": "https://github.com/zhayujie/CowAgent",
       "description": "Open-source personal AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-agent, multi-model, multi-channel. Lightweight, extensible, one-line install.",
-      "category": "Autonomous Agent",
+      "category": "General AI Agent",
       "is_new_this_week": false,
       "overall_score": 83.5,
       "performance_metrics": {
@@ -2273,19 +2158,19 @@
         "reliability_success_rate_pct": 94.2
       },
       "community_mindshare": {
-        "github_stars": 47463,
+        "github_stars": 47600,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 88.71
+        "mindshare_score": 88.39
       }
     },
     {
-      "rank": 100,
-      "agent_name": "agentmemory",
-      "developer": "rohitg00",
-      "repository_url": "https://github.com/rohitg00/agentmemory",
-      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
-      "category": "Coding & Software Engineering",
+      "rank": 95,
+      "agent_name": "eliza",
+      "developer": "elizaOS",
+      "repository_url": "https://github.com/elizaOS/eliza",
+      "description": "Open source agentic operating system",
+      "category": "Agent Framework",
       "is_new_this_week": false,
       "overall_score": 83.5,
       "performance_metrics": {
@@ -2293,13 +2178,128 @@
         "autonomous_iteration_avg_steps": 25.0,
         "cost_efficiency_usd_per_task": 0.05,
         "latency_per_step_ms": 500.0,
-        "reliability_success_rate_pct": 97.0
+        "reliability_success_rate_pct": 97.4
       },
       "community_mindshare": {
-        "github_stars": 29668,
+        "github_stars": 19652,
         "hf_likes": 0,
         "paper_citations": 0,
-        "mindshare_score": 84.58
+        "mindshare_score": 84.3
+      }
+    },
+    {
+      "rank": 96,
+      "agent_name": "infisical",
+      "developer": "Infisical",
+      "repository_url": "https://github.com/Infisical/infisical",
+      "description": "Infisical is the open-source platform for securing secrets, certificates, access, and AI Agents.",
+      "category": "DevOps & Infrastructure",
+      "is_new_this_week": false,
+      "overall_score": 83.5,
+      "performance_metrics": {
+        "tool_selection_quality_pct": 71.2,
+        "autonomous_iteration_avg_steps": 25.0,
+        "cost_efficiency_usd_per_task": 0.05,
+        "latency_per_step_ms": 500.0,
+        "reliability_success_rate_pct": 97.4
+      },
+      "community_mindshare": {
+        "github_stars": 29999,
+        "hf_likes": 0,
+        "paper_citations": 0,
+        "mindshare_score": 84.26
+      }
+    },
+    {
+      "rank": 97,
+      "agent_name": "UI-TARS-desktop",
+      "developer": "bytedance",
+      "repository_url": "https://github.com/bytedance/UI-TARS-desktop",
+      "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+      "category": "Browser & Computer Use",
+      "is_new_this_week": false,
+      "overall_score": 83.5,
+      "performance_metrics": {
+        "tool_selection_quality_pct": 71.2,
+        "autonomous_iteration_avg_steps": 25.0,
+        "cost_efficiency_usd_per_task": 0.05,
+        "latency_per_step_ms": 500.0,
+        "reliability_success_rate_pct": 97.4
+      },
+      "community_mindshare": {
+        "github_stars": 39392,
+        "hf_likes": 0,
+        "paper_citations": 0,
+        "mindshare_score": 84.26
+      }
+    },
+    {
+      "rank": 98,
+      "agent_name": "editor",
+      "developer": "pascalorg",
+      "repository_url": "https://github.com/pascalorg/editor",
+      "description": "Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.",
+      "category": "Multi-Modal Agent",
+      "is_new_this_week": false,
+      "overall_score": 83.5,
+      "performance_metrics": {
+        "tool_selection_quality_pct": 71.2,
+        "autonomous_iteration_avg_steps": 25.0,
+        "cost_efficiency_usd_per_task": 0.05,
+        "latency_per_step_ms": 500.0,
+        "reliability_success_rate_pct": 97.4
+      },
+      "community_mindshare": {
+        "github_stars": 25117,
+        "hf_likes": 0,
+        "paper_citations": 0,
+        "mindshare_score": 84.1
+      }
+    },
+    {
+      "rank": 99,
+      "agent_name": "conductor",
+      "developer": "conductor-oss",
+      "repository_url": "https://github.com/conductor-oss/conductor",
+      "description": "Conductor is an event driven agentic workflow engine providing durable and highly resilient execution engine for applications and AI Agents",
+      "category": "Workflow Orchestration",
+      "is_new_this_week": false,
+      "overall_score": 83.5,
+      "performance_metrics": {
+        "tool_selection_quality_pct": 61.2,
+        "autonomous_iteration_avg_steps": 22.5,
+        "cost_efficiency_usd_per_task": 0.05,
+        "latency_per_step_ms": 500.0,
+        "reliability_success_rate_pct": 97.4
+      },
+      "community_mindshare": {
+        "github_stars": 32385,
+        "hf_likes": 0,
+        "paper_citations": 0,
+        "mindshare_score": 82.87
+      }
+    },
+    {
+      "rank": 100,
+      "agent_name": "deepseek-harness",
+      "developer": "deepseek-ai",
+      "repository_url": "https://github.com/deepseek-ai/deepseek-harness",
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "category": "Agent Framework",
+      "is_new_this_week": false,
+      "overall_score": 83.4,
+      "performance_metrics": {
+        "tool_selection_quality_pct": 67.2,
+        "autonomous_iteration_avg_steps": 25.0,
+        "cost_efficiency_usd_per_task": 0.05,
+        "latency_per_step_ms": 500.0,
+        "reliability_success_rate_pct": 92.4
+      },
+      "community_mindshare": {
+        "github_stars": 261947,
+        "hf_likes": 0,
+        "paper_citations": 0,
+        "mindshare_score": 96.36
       }
     }
   ]
